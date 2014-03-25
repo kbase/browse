@@ -44,17 +44,6 @@ var wsbrowser = angular.module('ws-browser',
           controller: 'Search'
         })
 
-    $stateProvider
-        .state('narrative', {
-          url: "/narrative/",
-          templateUrl: 'views/narrative/home.html',
-          controller: 'Narrative'
-        }).state('narrative.projects', {
-          url: "projects/",
-          templateUrl: 'views/narrative/projects.html',
-          controller: 'NarrativeProjects'
-        })
-
 
     $stateProvider
         .state('ws', {
@@ -334,7 +323,7 @@ var wsbrowser = angular.module('ws-browser',
              templateUrl: 'views/landing-pages-help.html',
              controller: LPHelp})
 
-    $urlRouterProvider.when('', '/login/');
+    $urlRouterProvider.when('', '/ws/');
 
     $stateProvider
         .state('otherwise', 
