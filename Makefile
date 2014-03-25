@@ -13,3 +13,8 @@ default:
 
 deploy-ui:
 	echo "not yet implemented"
+
+
+
+
+include $(TOP_DIR)/tools/Makefile.common.rules
