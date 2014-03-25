@@ -1,0 +1,9 @@
+{
+    "setup": "workspace_service",
+
+    "workspace_service": {"workspace_url": "[% kb_workspace_url %]",
+             "fba_url" : "http://localhost/",
+             "user_job_state_url": "http://localhost/"}
+
+}
+
