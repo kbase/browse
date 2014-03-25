@@ -7,6 +7,8 @@ TPAGE = $(DEPLOY_RUNTIME)/bin/tpage
 SERVICE_NAME = browse
 SERVICE_DIR  = browse
 
+# this will be stashed on the web browser client, so localhost
+# is probably not what you really want.
 WORKSPACE_URL = http://localhost:7058
 TPAGE_ARGS = --define kb_workspace_url=$(WORKSPACE_URL)
 
