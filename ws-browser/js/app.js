@@ -44,7 +44,6 @@ var wsbrowser = angular.module('ws-browser',
           controller: 'Search'
         })
 
-
     $stateProvider
         .state('ws', {
           url: "/ws/",
@@ -108,7 +107,6 @@ var wsbrowser = angular.module('ws-browser',
             templateUrl: 'views/objects/rxn.html',
             controller: 'RxnDetail'
         })
-
 
 
     $stateProvider
