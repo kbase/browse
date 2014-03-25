@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Aug 25 2008 02:22:02 +0900 (JST) -->
+<pathway name="path:map02021bsu" org="map" number="02021bsu"
+         image="http://www.genome.jp/kegg/pathway/map/map02021bsu.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map02021bsu">
+    <entry id="1" name="path:map02021" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map02021">
+        <graphics name="TITLE:" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="196" y="34" width="171" height="26"/>
+    </entry>
+    <entry id="2" name="bsu:degS" type="other">
+        <graphics name="degS" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="180" y="135" width="45" height="17"/>
+    </entry>
+    <entry id="3" name="bsu:comP" type="other">
+        <graphics name="comP" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="101" width="45" height="17"/>
+    </entry>
+    <entry id="4" name="bsu:comA" type="other">
+        <graphics name="comA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="101" width="45" height="17"/>
+    </entry>
+    <entry id="5" name="bsu:degU" type="other">
+        <graphics name="degU" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="135" width="45" height="17"/>
+    </entry>
+    <entry id="6" name="bsu:yvqC" type="other">
+        <graphics name="yvqC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="168" width="45" height="17"/>
+    </entry>
+    <entry id="7" name="bsu:kinA" type="other">
+        <graphics name="kinA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="181" y="199" width="45" height="17"/>
+    </entry>
+    <entry id="8" name="bsu:yvqE" type="other">
+        <graphics name="yvqE" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="169" width="45" height="17"/>
+    </entry>
+    <entry id="9" name="bsu:kinB" type="other">
+        <graphics name="kinB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="224" width="45" height="17"/>
+    </entry>
+    <entry id="10" name="bsu:kinC" type="other">
+        <graphics name="kinC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="269" width="45" height="17"/>
+    </entry>
+    <entry id="11" name="bsu:spo0F" type="other">
+        <graphics name="spo0F" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="224" width="45" height="17"/>
+    </entry>
+    <entry id="12" name="bsu:spo0B" type="other">
+        <graphics name="spo0B" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="323" y="224" width="45" height="17"/>
+    </entry>
+    <entry id="13" name="bsu:spo0A" type="other">
+        <graphics name="spo0A" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="397" y="224" width="45" height="17"/>
+    </entry>
+    <entry id="14" name="bsu:kapB" type="other">
+        <graphics name="kapB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="183" y="240" width="45" height="17"/>
+    </entry>
+    <entry id="15" name="bsu:ydfH" type="other">
+        <graphics name="ydfH" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="303" width="45" height="17"/>
+    </entry>
+    <entry id="16" name="bsu:ydfI" type="other">
+        <graphics name="ydfI" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="303" width="45" height="17"/>
+    </entry>
+    <entry id="17" name="bsu:yfiJ" type="other">
+        <graphics name="yfiJ" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="337" width="45" height="17"/>
+    </entry>
+    <entry id="18" name="bsu:yfiK" type="other">
+        <graphics name="yfiK" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="337" width="45" height="17"/>
+    </entry>
+    <entry id="19" name="bsu:yhcY" type="other">
+        <graphics name="yhcY" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="371" width="45" height="17"/>
+    </entry>
+    <entry id="20" name="bsu:yhcZ" type="other">
+        <graphics name="yhcZ" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="371" width="45" height="17"/>
+    </entry>
+    <entry id="21" name="bsu:yocF" type="other">
+        <graphics name="yocF" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="405" width="45" height="17"/>
+    </entry>
+    <entry id="22" name="bsu:yocG" type="other">
+        <graphics name="yocG" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="405" width="45" height="17"/>
+    </entry>
+    <entry id="23" name="bsu:yvfT" type="other">
+        <graphics name="yvfT" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="439" width="45" height="17"/>
+    </entry>
+    <entry id="24" name="bsu:yvfU" type="other">
+        <graphics name="yvfU" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="439" width="45" height="17"/>
+    </entry>
+    <entry id="25" name="bsu:yxjM" type="other">
+        <graphics name="yxjM" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="473" width="45" height="17"/>
+    </entry>
+    <entry id="26" name="bsu:yxjL" type="other">
+        <graphics name="yxjL" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="473" width="45" height="17"/>
+    </entry>
+    <entry id="27" name="bsu:phoR" type="other">
+        <graphics name="phoR" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="507" width="45" height="17"/>
+    </entry>
+    <entry id="28" name="bsu:phoP" type="other">
+        <graphics name="phoP" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="507" width="45" height="17"/>
+    </entry>
+    <entry id="29" name="bsu:resE" type="other">
+        <graphics name="resE" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="541" width="45" height="17"/>
+    </entry>
+    <entry id="30" name="bsu:resD" type="other">
+        <graphics name="resD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="541" width="45" height="17"/>
+    </entry>
+    <entry id="31" name="bsu:yclK" type="other">
+        <graphics name="yclK" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="575" width="45" height="17"/>
+    </entry>
+    <entry id="32" name="bsu:yclJ" type="other">
+        <graphics name="yclJ" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="575" width="45" height="17"/>
+    </entry>
+    <entry id="33" name="bsu:ykoH" type="other">
+        <graphics name="ykoH" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="609" width="45" height="17"/>
+    </entry>
+    <entry id="34" name="bsu:ykoG" type="other">
+        <graphics name="ykoG" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="609" width="45" height="17"/>
+    </entry>
+    <entry id="35" name="bsu:yycG" type="other">
+        <graphics name="yycG" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="136" y="643" width="45" height="17"/>
+    </entry>
+    <entry id="36" name="bsu:yycF" type="other">
+        <graphics name="yycF" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="249" y="643" width="45" height="17"/>
+    </entry>
+    <entry id="37" name="bsu:ybdK" type="other">
+        <graphics name="ybdK" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="102" width="45" height="17"/>
+    </entry>
+    <entry id="38" name="bsu:ybdJ" type="other">
+        <graphics name="ybdJ" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="102" width="45" height="17"/>
+    </entry>
+    <entry id="39" name="bsu:ycbM" type="other">
+        <graphics name="ycbM" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="136" width="45" height="17"/>
+    </entry>
+    <entry id="40" name="bsu:ycbL" type="other">
+        <graphics name="ycbL" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="136" width="45" height="17"/>
+    </entry>
+    <entry id="41" name="bsu:yrkQ" type="other">
+        <graphics name="yrkQ" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="170" width="45" height="17"/>
+    </entry>
+    <entry id="42" name="bsu:yrkP" type="other">
+        <graphics name="yrkP" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="170" width="45" height="17"/>
+    </entry>
+    <entry id="43" name="bsu:ytsB" type="other">
+        <graphics name="ytsB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="204" width="45" height="17"/>
+    </entry>
+    <entry id="44" name="bsu:ytsA" type="other">
+        <graphics name="ytsA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="204" width="45" height="17"/>
+    </entry>
+    <entry id="45" name="bsu:yvcQ" type="other">
+        <graphics name="yvcQ" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="238" width="45" height="17"/>
+    </entry>
+    <entry id="46" name="bsu:yvcP" type="other">
+        <graphics name="yvcP" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="238" width="45" height="17"/>
+    </entry>
+    <entry id="47" name="bsu:yvqB" type="other">
+        <graphics name="yvqB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="272" width="45" height="17"/>
+    </entry>
+    <entry id="48" name="bsu:yvqA" type="other">
+        <graphics name="yvqA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="272" width="45" height="17"/>
+    </entry>
+    <entry id="49" name="bsu:yvrG" type="other">
+        <graphics name="yvrG" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="306" width="45" height="17"/>
+    </entry>
+    <entry id="50" name="bsu:yvrH" type="other">
+        <graphics name="yvrH" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="306" width="45" height="17"/>
+    </entry>
+    <entry id="51" name="bsu:yxdK" type="other">
+        <graphics name="yxdK" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="340" width="45" height="17"/>
+    </entry>
+    <entry id="52" name="bsu:yxdJ" type="other">
+        <graphics name="yxdJ" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="340" width="45" height="17"/>
+    </entry>
+    <entry id="53" name="bsu:lytS" type="other">
+        <graphics name="lytS" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="374" width="45" height="17"/>
+    </entry>
+    <entry id="54" name="bsu:lytT" type="other">
+        <graphics name="lytT" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="374" width="45" height="17"/>
+    </entry>
+    <entry id="55" name="bsu:yccG" type="other">
+        <graphics name="yccG" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="408" width="45" height="17"/>
+    </entry>
+    <entry id="56" name="bsu:yccH" type="other">
+        <graphics name="yccH" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="408" width="45" height="17"/>
+    </entry>
+    <entry id="57" name="bsu:ydbF" type="other">
+        <graphics name="ydbF" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="442" width="45" height="17"/>
+    </entry>
+    <entry id="58" name="bsu:ydbG" type="other">
+        <graphics name="ydbG" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="442" width="45" height="17"/>
+    </entry>
+    <entry id="59" name="bsu:citS" type="other">
+        <graphics name="citS" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="476" width="45" height="17"/>
+    </entry>
+    <entry id="60" name="bsu:citT" type="other">
+        <graphics name="citT" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="476" width="45" height="17"/>
+    </entry>
+    <entry id="61" name="bsu:yufL" type="other">
+        <graphics name="yufL" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="510" width="45" height="17"/>
+    </entry>
+    <entry id="62" name="bsu:yufM" type="other">
+        <graphics name="yufM" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="510" width="45" height="17"/>
+    </entry>
+    <entry id="63" name="bsu:ycbA" type="other">
+        <graphics name="ycbA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="544" width="45" height="17"/>
+    </entry>
+    <entry id="64" name="bsu:ycbB" type="other">
+        <graphics name="ycbB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="544" width="45" height="17"/>
+    </entry>
+    <entry id="65" name="bsu:yesM" type="other">
+        <graphics name="yesM" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="578" width="45" height="17"/>
+    </entry>
+    <entry id="66" name="bsu:yesN" type="other">
+        <graphics name="yesN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="675" y="578" width="45" height="17"/>
+    </entry>
+    <entry id="67" name="bsu:ywpD" type="other">
+        <graphics name="ywpD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="562" y="612" width="45" height="17"/>
+    </entry>
+    <entry id="68" name="cpd:C00009" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00009">
+        <graphics name="C00009" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="80" y="508" width="8" height="8"/>
+    </entry>
+</pathway>

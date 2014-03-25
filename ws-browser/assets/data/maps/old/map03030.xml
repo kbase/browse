@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Jul 30 2008 19:30:24 +0900 (JST) -->
+<pathway name="path:map03030" org="map" number="03030"
+         title="DNA replication"
+         image="http://www.genome.jp/kegg/pathway/map/map03030.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map03030">
+    <entry id="1" name="ec:6.5.1.1" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+6.5.1.1">
+        <graphics name="6.5.1.1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="875" width="45" height="17"/>
+    </entry>
+    <entry id="2" name="ec:3.-.-.-" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.-.-.-">
+        <graphics name="3.-.-.-" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1080" y="875" width="45" height="17"/>
+    </entry>
+    <entry id="3" name="ec:3.6.1.-" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.6.1.-">
+        <graphics name="3.6.1.-" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1003" y="818" width="45" height="17"/>
+    </entry>
+    <entry id="4" name="ec:3.1.26.4" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.1.26.4">
+        <graphics name="3.1.26.4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1067" y="818" width="46" height="17"/>
+    </entry>
+    <entry id="5" name="ko:K10744" type="ortholog">
+        <graphics name="K10744" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1112" y="818" width="45" height="17"/>
+    </entry>
+    <entry id="6" name="ko:K10755" type="ortholog">
+        <graphics name="K10755" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1112" y="760" width="45" height="17"/>
+    </entry>
+    <entry id="7" name="ko:K10745" type="ortholog">
+        <graphics name="K10745" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="818" width="45" height="17"/>
+    </entry>
+    <entry id="8" name="ko:K10756" type="ortholog">
+        <graphics name="K10756" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="760" width="45" height="17"/>
+    </entry>
+    <entry id="9" name="ko:K04802" type="ortholog">
+        <graphics name="K04802" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1002" y="760" width="45" height="17"/>
+    </entry>
+    <entry id="10" name="ko:K10740" type="ortholog">
+        <graphics name="K10740" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="709" width="45" height="17"/>
+    </entry>
+    <entry id="11" name="ko:K02209" type="ortholog">
+        <graphics name="K02209" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1067" y="692" width="45" height="17"/>
+    </entry>
+    <entry id="12" name="ko:K03505" type="ortholog">
+        <graphics name="K03505" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="562" width="46" height="17"/>
+    </entry>
+    <entry id="13" name="ko:K03504" type="ortholog">
+        <graphics name="K03504" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1111" y="562" width="45" height="17"/>
+    </entry>
+    <entry id="14" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="620" width="46" height="17"/>
+    </entry>
+    <entry id="15" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1111" y="620" width="45" height="17"/>
+    </entry>
+    <entry id="16" name="ko:K03111" type="ortholog">
+        <graphics name="K03111" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="336" width="45" height="17"/>
+    </entry>
+    <entry id="17" name="ec:2.7.7.-" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.-">
+        <graphics name="2.7.7.-" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1081" y="336" width="45" height="17"/>
+    </entry>
+    <entry id="18" name="path:map03030" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map03030">
+        <graphics name="TITLE:DNA replication" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="134" y="50" width="144" height="26"/>
+    </entry>
+    <entry id="19" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1094" y="228" width="46" height="17"/>
+    </entry>
+    <entry id="20" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1094" y="211" width="46" height="17"/>
+    </entry>
+    <entry id="21" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1094" y="194" width="46" height="17"/>
+    </entry>
+    <entry id="22" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1094" y="245" width="46" height="17"/>
+    </entry>
+    <entry id="23" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1094" y="262" width="45" height="17"/>
+    </entry>
+    <entry id="24" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1094" y="279" width="45" height="17"/>
+    </entry>
+    <entry id="25" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1049" y="279" width="45" height="17"/>
+    </entry>
+    <entry id="26" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1049" y="262" width="46" height="17"/>
+    </entry>
+    <entry id="27" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1004" y="279" width="46" height="17"/>
+    </entry>
+    <entry id="28" name="ec:3.1.26.4" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.1.26.4">
+        <graphics name="3.1.26.4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1003" y="393" width="45" height="17"/>
+    </entry>
+    <entry id="29" name="ec:6.5.1.2" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+6.5.1.2">
+        <graphics name="6.5.1.2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="393" width="45" height="17"/>
+    </entry>
+    <entry id="30" name="ko:K02540" type="ortholog">
+        <graphics name="K02540" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1022" y="675" width="46" height="17"/>
+    </entry>
+    <entry id="31" name="ko:K02541" type="ortholog">
+        <graphics name="K02541" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1067" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="32" name="ko:K02212" type="ortholog">
+        <graphics name="K02212" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1022" y="692" width="46" height="17"/>
+    </entry>
+    <entry id="33" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1021" y="506" width="46" height="17"/>
+    </entry>
+    <entry id="34" name="ko:K02321" type="ortholog">
+        <graphics name="K02321" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1066" y="506" width="45" height="17"/>
+    </entry>
+    <entry id="35" name="ec:2.7.7.-" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.-">
+        <graphics name="2.7.7.-" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1111" y="506" width="45" height="17"/>
+    </entry>
+    <entry id="36" name="ec:2.7.7.-" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.-">
+        <graphics name="2.7.7.-" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="506" width="46" height="17"/>
+    </entry>
+    <entry id="37" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1021" y="562" width="46" height="17"/>
+    </entry>
+    <entry id="38" name="ko:K02328" type="ortholog">
+        <graphics name="K02328" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1066" y="562" width="45" height="17"/>
+    </entry>
+    <entry id="39" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1021" y="620" width="46" height="17"/>
+    </entry>
+    <entry id="40" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1066" y="620" width="45" height="17"/>
+    </entry>
+    <entry id="41" name="ko:K02542" type="ortholog">
+        <graphics name="K02542" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1022" y="709" width="46" height="17"/>
+    </entry>
+    <entry id="42" name="ko:K02210" type="ortholog">
+        <graphics name="K02210" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1067" y="709" width="45" height="17"/>
+    </entry>
+    <entry id="43" name="ko:K07466" type="ortholog">
+        <graphics name="K07466" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="44" name="ko:K10739 ko:K10741" type="ortholog">
+        <graphics name="K10739..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="692" width="45" height="17"/>
+    </entry>
+    <entry id="45" name="ko:K10754" type="ortholog">
+        <graphics name="K10754" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1067" y="760" width="46" height="17"/>
+    </entry>
+    <entry id="46" name="ec:2.7.7.7" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.7.7">
+        <graphics name="2.7.7.7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1080" y="393" width="45" height="17"/>
+    </entry>
+    <entry id="47" name="ec:3.6.1.-" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.6.1.-">
+        <graphics name="3.6.1.-" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1005" y="336" width="45" height="17"/>
+    </entry>
+    <entry id="48" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1049" y="237" width="156" height="122"/>
+        <component id="19"/>
+        <component id="20"/>
+        <component id="21"/>
+        <component id="22"/>
+        <component id="23"/>
+        <component id="24"/>
+        <component id="25"/>
+        <component id="26"/>
+        <component id="27"/>
+    </entry>
+    <entry id="49" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1089" y="506" width="202" height="37"/>
+        <component id="33"/>
+        <component id="34"/>
+        <component id="35"/>
+        <component id="36"/>
+    </entry>
+    <entry id="50" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1089" y="562" width="202" height="37"/>
+        <component id="12"/>
+        <component id="13"/>
+        <component id="37"/>
+        <component id="38"/>
+    </entry>
+    <entry id="51" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1089" y="620" width="202" height="37"/>
+        <component id="14"/>
+        <component id="15"/>
+        <component id="39"/>
+        <component id="40"/>
+    </entry>
+    <entry id="52" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1044" y="692" width="111" height="71"/>
+        <component id="11"/>
+        <component id="30"/>
+        <component id="31"/>
+        <component id="32"/>
+        <component id="41"/>
+        <component id="42"/>
+    </entry>
+    <entry id="53" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1157" y="692" width="65" height="71"/>
+        <component id="10"/>
+        <component id="43"/>
+        <component id="44"/>
+    </entry>
+    <entry id="54" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1112" y="760" width="156" height="37"/>
+        <component id="6"/>
+        <component id="8"/>
+        <component id="45"/>
+    </entry>
+    <entry id="55" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1112" y="818" width="156" height="37"/>
+        <component id="4"/>
+        <component id="5"/>
+        <component id="7"/>
+    </entry>
+</pathway>

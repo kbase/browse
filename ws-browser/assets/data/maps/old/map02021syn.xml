@@ -1,0 +1,314 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Aug 25 2008 02:22:03 +0900 (JST) -->
+<pathway name="path:map02021syn" org="map" number="02021syn"
+         image="http://www.genome.jp/kegg/pathway/map/map02021syn.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map02021syn">
+    <entry id="1" name="cpd:C01330" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C01330">
+        <graphics name="C01330" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="567" y="265" width="8" height="8"/>
+    </entry>
+    <entry id="2" name="cpd:C06906" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C06906">
+        <graphics name="C06906" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="568" y="226" width="8" height="8"/>
+    </entry>
+    <entry id="3" name="cpd:C06547" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C06547">
+        <graphics name="C06547" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="569" y="192" width="8" height="8"/>
+    </entry>
+    <entry id="4" name="cpd:C00291" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00291">
+        <graphics name="C00291" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="569" y="136" width="8" height="8"/>
+    </entry>
+    <entry id="5" name="cpd:C00034" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00034">
+        <graphics name="C00034" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="569" y="95" width="8" height="8"/>
+    </entry>
+    <entry id="6" name="cpd:C00533" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00533">
+        <graphics name="C00533" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="77" y="433" width="8" height="8"/>
+    </entry>
+    <entry id="7" name="cpd:C00237" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00237">
+        <graphics name="C00237" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="77" y="415" width="8" height="8"/>
+    </entry>
+    <entry id="8" name="cpd:C00007" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00007">
+        <graphics name="C00007" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="76" y="398" width="8" height="8"/>
+    </entry>
+    <entry id="9" name="cpd:C00009" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00009">
+        <graphics name="C00009" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="75" y="366" width="8" height="8"/>
+    </entry>
+    <entry id="10" name="cpd:C01330" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C01330">
+        <graphics name="C01330" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="76" y="303" width="8" height="8"/>
+    </entry>
+    <entry id="11" name="path:map02021" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map02021">
+        <graphics name="TITLE:" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="194" y="35" width="171" height="26"/>
+    </entry>
+    <entry id="12" name="syn:slr1730" type="other">
+        <graphics name="kdpC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="938" y="292" width="46" height="17"/>
+    </entry>
+    <entry id="13" name="syn:slr1729" type="other">
+        <graphics name="kdpB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="892" y="292" width="45" height="17"/>
+    </entry>
+    <entry id="14" name="syn:slr1728" type="other">
+        <graphics name="kdpA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="847" y="292" width="46" height="17"/>
+    </entry>
+    <entry id="15" name="syn:sll0396" type="other">
+        <graphics name="rre28" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="737" y="292" width="45" height="17"/>
+    </entry>
+    <entry id="16" name="syn:slr1731" type="other">
+        <graphics name="kdpD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="292" width="45" height="17"/>
+    </entry>
+    <entry id="17" name="syn:sll1229" type="other">
+        <graphics name="hik41" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="737" y="531" width="45" height="17"/>
+    </entry>
+    <entry id="18" name="syn:sll1228" type="other">
+        <graphics name="hik4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="531" width="45" height="17"/>
+    </entry>
+    <entry id="19" name="syn:slr1982" type="other">
+        <graphics name="rre21" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="737" y="497" width="45" height="17"/>
+    </entry>
+    <entry id="20" name="syn:sll1871" type="other">
+        <graphics name="hik6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="497" width="45" height="17"/>
+    </entry>
+    <entry id="21" name="syn:sll1673" type="other">
+        <graphics name="rre2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="737" y="464" width="45" height="17"/>
+    </entry>
+    <entry id="22" name="syn:sll1672" type="other">
+        <graphics name="hik12" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="464" width="45" height="17"/>
+    </entry>
+    <entry id="23" name="syn:sll1291" type="other">
+        <graphics name="rre12" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="245" y="657" width="45" height="17"/>
+    </entry>
+    <entry id="24" name="syn:sll1292" type="other">
+        <graphics name="rre11" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="628" width="45" height="17"/>
+    </entry>
+    <entry id="25" name="syn:sll1296" type="other">
+        <graphics name="hik39, cheA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="641" width="45" height="17"/>
+    </entry>
+    <entry id="26" name="syn:sll1441" type="other">
+        <graphics name="desB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="958" y="240" width="45" height="17"/>
+    </entry>
+    <entry id="27" name="syn:sll0038" type="other">
+        <graphics name="pixG, pisG, taxP1, rer1, cheY, rre36" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="849" y="239" width="45" height="17"/>
+    </entry>
+    <entry id="28" name="syn:sll1905" type="other">
+        <graphics name="hik19" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="737" y="239" width="45" height="17"/>
+    </entry>
+    <entry id="29" name="syn:sll0789" type="other">
+        <graphics name="copR, rre34" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="737" y="430" width="45" height="17"/>
+    </entry>
+    <entry id="30" name="syn:sll0790" type="other">
+        <graphics name="hik31" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="430" width="45" height="17"/>
+    </entry>
+    <entry id="31" name="syn:slr0796" type="other">
+        <graphics name="nrsD, nreB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="983" y="136" width="45" height="17"/>
+    </entry>
+    <entry id="32" name="syn:slr0795" type="other">
+        <graphics name="nrsC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="938" y="136" width="46" height="17"/>
+    </entry>
+    <entry id="33" name="syn:slr0794" type="other">
+        <graphics name="nrsA, czcA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="892" y="136" width="45" height="17"/>
+    </entry>
+    <entry id="34" name="syn:slr0793" type="other">
+        <graphics name="nrsB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="847" y="136" width="46" height="17"/>
+    </entry>
+    <entry id="35" name="syn:sll1600" type="other">
+        <graphics name="mntB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="938" y="95" width="46" height="17"/>
+    </entry>
+    <entry id="36" name="syn:sll1599" type="other">
+        <graphics name="mntA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="892" y="95" width="45" height="17"/>
+    </entry>
+    <entry id="37" name="syn:sll1598" type="other">
+        <graphics name="mntC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="847" y="95" width="46" height="17"/>
+    </entry>
+    <entry id="38" name="syn:slr1760" type="other">
+        <graphics name="rre8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="737" y="398" width="45" height="17"/>
+    </entry>
+    <entry id="39" name="syn:slr1759" type="other">
+        <graphics name="hik14" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="398" width="45" height="17"/>
+    </entry>
+    <entry id="40" name="syn:slr0312" type="other">
+        <graphics name="rre32" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="737" y="366" width="45" height="17"/>
+    </entry>
+    <entry id="41" name="syn:slr0311" type="other">
+        <graphics name="hik29" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="366" width="45" height="17"/>
+    </entry>
+    <entry id="42" name="syn:sll1592" type="other">
+        <graphics name="rre19" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="737" y="334" width="45" height="17"/>
+    </entry>
+    <entry id="43" name="syn:sll1590" type="other">
+        <graphics name="hik20" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="334" width="45" height="17"/>
+    </entry>
+    <entry id="44" name="syn:sll0698" type="other">
+        <graphics name="hik33, chk33, ycf26, dspA, nblS, dfr" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="240" width="45" height="17"/>
+    </entry>
+    <entry id="45" name="syn:slr1212" type="other">
+        <graphics name="ETR1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="192" width="45" height="17"/>
+    </entry>
+    <entry id="46" name="syn:sll0797" type="other">
+        <graphics name="nrsR, rppA, rre33" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="737" y="136" width="45" height="17"/>
+    </entry>
+    <entry id="47" name="syn:sll0798" type="other">
+        <graphics name="nrsS, rppB, hik30" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="136" width="45" height="17"/>
+    </entry>
+    <entry id="48" name="syn:slr1837" type="other">
+        <graphics name="manR rre16" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="737" y="95" width="45" height="17"/>
+    </entry>
+    <entry id="49" name="syn:slr0640" type="other">
+        <graphics name="manS, hik27" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="624" y="95" width="45" height="17"/>
+    </entry>
+    <entry id="50" name="syn:slr1042" type="other">
+        <graphics name="rre7, pilH" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="245" y="596" width="45" height="17"/>
+    </entry>
+    <entry id="51" name="syn:slr0322" type="other">
+        <graphics name="taxAY3, pilL-C, cheA, hik43" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="580" width="45" height="17"/>
+    </entry>
+    <entry id="52" name="syn:slr1041" type="other">
+        <graphics name="rre6, pilG" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="567" width="45" height="17"/>
+    </entry>
+    <entry id="53" name="syn:slr1214" type="other">
+        <graphics name="rre15" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="537" width="45" height="17"/>
+    </entry>
+    <entry id="54" name="syn:sll1292" type="other">
+        <graphics name="rre11" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="509" width="45" height="17"/>
+    </entry>
+    <entry id="55" name="syn:sll1624" type="other">
+        <graphics name="rre18" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="477" width="45" height="17"/>
+    </entry>
+    <entry id="56" name="syn:slr2100" type="other">
+        <graphics name="rre20" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="441" width="45" height="17"/>
+    </entry>
+    <entry id="57" name="syn:slr2099" type="other">
+        <graphics name="hik40" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="444" width="45" height="17"/>
+    </entry>
+    <entry id="58" name="syn:slr2104" type="other">
+        <graphics name="hik22" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="418" width="45" height="17"/>
+    </entry>
+    <entry id="59" name="syn:slr2098" type="other">
+        <graphics name="hik21" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="415" width="45" height="17"/>
+    </entry>
+    <entry id="60" name="syn:slr0081" type="other">
+        <graphics name="phoB, hisB, rre29, sphR" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="366" width="45" height="17"/>
+    </entry>
+    <entry id="61" name="syn:sll0337" type="other">
+        <graphics name="phoR, hik7, sphS" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="366" width="45" height="17"/>
+    </entry>
+    <entry id="62" name="syn:slr1285" type="other">
+        <graphics name="hik34" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="332" width="45" height="17"/>
+    </entry>
+    <entry id="63" name="syn:sll1229" type="other">
+        <graphics name="hik41" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="302" width="45" height="17"/>
+    </entry>
+    <entry id="64" name="syn:slr1805" type="other">
+        <graphics name="hik16" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="303" width="45" height="17"/>
+    </entry>
+    <entry id="65" name="syn:slr0758" type="other">
+        <graphics name="kaiC1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="270" width="45" height="17"/>
+    </entry>
+    <entry id="66" name="syn:sll0790" type="other">
+        <graphics name="hik31" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="270" width="45" height="17"/>
+    </entry>
+    <entry id="67" name="syn:slr0474" type="other">
+        <graphics name="rcp1, rre27" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="245" y="239" width="45" height="17"/>
+    </entry>
+    <entry id="68" name="syn:slr0473" type="other">
+        <graphics name="cph1, hik35" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="238" width="45" height="17"/>
+    </entry>
+    <entry id="69" name="syn:sll1124" type="other">
+        <graphics name="plpA, hik3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="207" width="45" height="17"/>
+    </entry>
+    <entry id="70" name="syn:slr0947" type="other">
+        <graphics name="rpaB, ycf27, rre26" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="179" width="45" height="17"/>
+    </entry>
+    <entry id="71" name="syn:slr0115" type="other">
+        <graphics name="rpaA, rre31, crr31" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="152" width="45" height="17"/>
+    </entry>
+    <entry id="72" name="syn:sll0039" type="other">
+        <graphics name="pixH, pisH, cheY, rre35" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="122" width="45" height="17"/>
+    </entry>
+    <entry id="73" name="syn:sll0038" type="other">
+        <graphics name="pixG, pisG, taxP1, rer1, cheY, rre36" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="94" width="45" height="17"/>
+    </entry>
+    <entry id="74" name="syn:sll0043" type="other">
+        <graphics name="pixL, taxAY1, cheA, hik18" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="107" width="45" height="17"/>
+    </entry>
+</pathway>

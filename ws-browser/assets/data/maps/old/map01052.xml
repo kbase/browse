@@ -1,0 +1,949 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Aug 25 2008 02:21:49 +0900 (JST) -->
+<pathway name="path:map01052" org="map" number="01052"
+         title="Type I polyketide structures"
+         image="http://www.genome.jp/kegg/pathway/map/map01052.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map01052">
+    <entry id="1" name="" type="map"
+        link="http://www.genome.jp/kegg-bin/mark_pathway_www?@map07020/dr:D02490">
+        <graphics name="TITLE:" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="232" y="1038" width="146" height="27"/>
+    </entry>
+    <entry id="2" name="" type="map"
+        link="http://www.genome.jp/kegg-bin/mark_pathway_www?@map07020/dr:D02186">
+        <graphics name="TITLE:" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="542" y="679" width="146" height="27"/>
+    </entry>
+    <entry id="3" name="" type="map"
+        link="http://www.genome.jp/kegg-bin/mark_pathway_www?@map07020/dr:D00140">
+        <graphics name="TITLE:" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="231" y="679" width="146" height="27"/>
+    </entry>
+    <entry id="4" name="cpd:C12151" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C12151">
+        <graphics name="C12151" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="259" y="3090" width="66" height="12"/>
+    </entry>
+    <entry id="5" name="cpd:C12157" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C12157">
+        <graphics name="C12157" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="615" y="2847" width="69" height="10"/>
+    </entry>
+    <entry id="6" name="cpd:C12148" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C12148">
+        <graphics name="C12148" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="259" y="2847" width="76" height="11"/>
+    </entry>
+    <entry id="7" name="cpd:C11300" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C11300">
+        <graphics name="C11300" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="615" y="2618" width="61" height="10"/>
+    </entry>
+    <entry id="8" name="cpd:C12153" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C12153">
+        <graphics name="C12153" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="259" y="2618" width="67" height="10"/>
+    </entry>
+    <entry id="9" name="cpd:C06690" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C06690">
+        <graphics name="C06690" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="742" y="2324" width="124" height="12"/>
+    </entry>
+    <entry id="10" name="cpd:C08073" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08073">
+        <graphics name="C08073" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="248" y="2324" width="51" height="12"/>
+    </entry>
+    <entry id="11" name="cpd:C12155" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C12155">
+        <graphics name="C12155" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="740" y="2067" width="59" height="10"/>
+    </entry>
+    <entry id="12" name="cpd:C06573" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C06573">
+        <graphics name="C06573" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="247" y="2067" width="81" height="10"/>
+    </entry>
+    <entry id="13" name="cpd:C12176" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C12176">
+        <graphics name="C12176" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="543" y="1742" width="85" height="10"/>
+    </entry>
+    <entry id="14" name="cpd:C12045" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C12045">
+        <graphics name="C12045" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="232" y="1741" width="81" height="12"/>
+    </entry>
+    <entry id="15" name="cpd:C01375" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C01375">
+        <graphics name="C01375" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="839" y="1409" width="37" height="12"/>
+    </entry>
+    <entry id="16" name="cpd:C12102" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C12102">
+        <graphics name="C12102" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="543" y="1409" width="36" height="12"/>
+    </entry>
+    <entry id="17" name="cpd:C07909" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C07909">
+        <graphics name="C07909" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="233" y="1410" width="62" height="10"/>
+    </entry>
+    <entry id="18" name="cpd:C11984" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C11984">
+        <graphics name="C11984" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="840" y="967" width="84" height="13"/>
+    </entry>
+    <entry id="19" name="cpd:C12152" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C12152">
+        <graphics name="C12152" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="543" y="967" width="63" height="10"/>
+    </entry>
+    <entry id="20" name="cpd:C01457" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C01457">
+        <graphics name="C01457" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="232" y="968" width="37" height="10"/>
+    </entry>
+    <entry id="21" name="cpd:C11999" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C11999">
+        <graphics name="C11999" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="839" y="645" width="59" height="10"/>
+    </entry>
+    <entry id="22" name="cpd:C01946" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C01946">
+        <graphics name="C01946" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="543" y="645" width="74" height="11"/>
+    </entry>
+    <entry id="23" name="cpd:C01912" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C01912">
+        <graphics name="C01912" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="233" y="645" width="85" height="10"/>
+    </entry>
+    <entry id="24" name="cpd:C11996" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C11996">
+        <graphics name="C11996" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="232" y="326" width="63" height="10"/>
+    </entry>
+    <entry id="25" name="path:map01051" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map01051.html">
+        <graphics name="Biosynthesis of ansamycins" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="231" y="1781" width="157" height="27"/>
+    </entry>
+    <entry id="26" name="up:Q6MZ72" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q6MZ72">
+        <graphics name="Q6MZ72" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="332" y="2990" width="46" height="17"/>
+    </entry>
+    <entry id="27" name="up:Q6MZA4" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q6MZA4">
+        <graphics name="Q6MZA4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="246" y="2897" width="46" height="17"/>
+    </entry>
+    <entry id="28" name="up:Q6MZA5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q6MZA5">
+        <graphics name="Q6MZA5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="98" y="2990" width="46" height="17"/>
+    </entry>
+    <entry id="29" name="up:Q93TW6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93TW6">
+        <graphics name="Q93TW6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="755" y="2676" width="46" height="17"/>
+    </entry>
+    <entry id="30" name="up:Q93TW7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93TW7">
+        <graphics name="Q93TW7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="706" y="2690" width="46" height="17"/>
+    </entry>
+    <entry id="31" name="up:Q93TW8" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93TW8">
+        <graphics name="Q93TW8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="681" y="2709" width="46" height="17"/>
+    </entry>
+    <entry id="32" name="up:Q93TW9" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93TW9">
+        <graphics name="Q93TW9" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="630" y="2736" width="46" height="17"/>
+    </entry>
+    <entry id="33" name="up:Q93TX0" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93TX0">
+        <graphics name="Q93TX0" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="572" y="2695" width="46" height="17"/>
+    </entry>
+    <entry id="34" name="up:Q93TX1" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93TX1">
+        <graphics name="Q93TX1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="572" y="2676" width="46" height="17"/>
+    </entry>
+    <entry id="35" name="up:Q93TX2" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93TX2">
+        <graphics name="Q93TX2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="510" y="2676" width="46" height="17"/>
+    </entry>
+    <entry id="36" name="up:Q8RJY1" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8RJY1">
+        <graphics name="Q8RJY1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="289" y="2811" width="46" height="17"/>
+    </entry>
+    <entry id="37" name="up:Q8RJX6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8RJX6">
+        <graphics name="Q8RJX6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="342" y="2833" width="46" height="17"/>
+    </entry>
+    <entry id="38" name="up:Q8RJX8" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8RJX8">
+        <graphics name="Q8RJX8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="386" y="2811" width="46" height="17"/>
+    </entry>
+    <entry id="39" name="up:Q8RJX9" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8RJX9">
+        <graphics name="Q8RJX9" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="386" y="2792" width="46" height="17"/>
+    </entry>
+    <entry id="40" name="up:Q8RJX7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8RJX7">
+        <graphics name="Q8RJX7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="414" y="2693" width="46" height="17"/>
+    </entry>
+    <entry id="41" name="up:Q8RJY0" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8RJY0">
+        <graphics name="Q8RJY0" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="289" y="2687" width="46" height="17"/>
+    </entry>
+    <entry id="42" name="up:Q8RJY2" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8RJY2">
+        <graphics name="Q8RJY2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="250" y="2668" width="46" height="17"/>
+    </entry>
+    <entry id="43" name="up:Q8RJY3" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8RJY3">
+        <graphics name="Q8RJY3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="214" y="2687" width="46" height="17"/>
+    </entry>
+    <entry id="44" name="up:Q8RJY4" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8RJY4">
+        <graphics name="Q8RJY4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="181" y="2668" width="46" height="17"/>
+    </entry>
+    <entry id="45" name="up:Q8RJY5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8RJY5">
+        <graphics name="Q8RJY5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="148" y="2687" width="46" height="17"/>
+    </entry>
+    <entry id="46" name="up:Q8RJY6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8RJY6">
+        <graphics name="Q8RJY6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="101" y="2717" width="46" height="17"/>
+    </entry>
+    <entry id="47" name="up:Q9ADL7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ADL7">
+        <graphics name="Q9ADL7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="640" y="2597" width="46" height="17"/>
+    </entry>
+    <entry id="48" name="up:Q53840" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q53840">
+        <graphics name="Q53840" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="736" y="2494" width="46" height="17"/>
+    </entry>
+    <entry id="49" name="up:Q9ADL4" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ADL4">
+        <graphics name="Q9ADL4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="618" y="2414" width="46" height="17"/>
+    </entry>
+    <entry id="50" name="up:Q9ADL6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ADL6">
+        <graphics name="Q9ADL6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="503" y="2494" width="46" height="17"/>
+    </entry>
+    <entry id="51" name="up:Q9KIZ6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KIZ6">
+        <graphics name="Q9KIZ6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="352" y="2572" width="46" height="17"/>
+    </entry>
+    <entry id="52" name="up:Q9KIZ5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KIZ5">
+        <graphics name="Q9KIZ5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="253" y="2572" width="46" height="17"/>
+    </entry>
+    <entry id="53" name="up:Q9KIZ8" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KIZ8">
+        <graphics name="Q9KIZ8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="184" y="2572" width="46" height="17"/>
+    </entry>
+    <entry id="54" name="up:Q9KIZ7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KIZ7">
+        <graphics name="Q9KIZ7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="352" y="2440" width="46" height="17"/>
+    </entry>
+    <entry id="55" name="up:C167_POLCB" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+C167_POLCB">
+        <graphics name="C167_POLCB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="253" y="2414" width="46" height="17"/>
+    </entry>
+    <entry id="56" name="up:Q9KIZ9" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KIZ9">
+        <graphics name="Q9KIZ9" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="176" y="2440" width="46" height="17"/>
+    </entry>
+    <entry id="57" name="up:Q9KJ00" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KJ00">
+        <graphics name="Q9KJ00" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="101" y="2477" width="46" height="17"/>
+    </entry>
+    <entry id="58" name="up:Q6W5P6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q6W5P6">
+        <graphics name="Q6W5P6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="897" y="2275" width="46" height="17"/>
+    </entry>
+    <entry id="59" name="up:Q6W5P7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q6W5P7">
+        <graphics name="Q6W5P7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="696" y="2275" width="46" height="17"/>
+    </entry>
+    <entry id="60" name="up:Q6W5P8" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q6W5P8">
+        <graphics name="Q6W5P8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="593" y="2275" width="46" height="17"/>
+    </entry>
+    <entry id="61" name="up:Q6W5Q7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q6W5Q7">
+        <graphics name="Q6W5Q7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="936" y="2160" width="46" height="17"/>
+    </entry>
+    <entry id="62" name="up:Q6W5Q9" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q6W5Q9">
+        <graphics name="Q6W5Q9" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="844" y="2122" width="46" height="17"/>
+    </entry>
+    <entry id="63" name="up:Q6W5Q0" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q6W5Q0">
+        <graphics name="Q6W5Q0" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="696" y="2161" width="46" height="17"/>
+    </entry>
+    <entry id="64" name="up:Q6W5P9" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q6W5P9">
+        <graphics name="Q6W5P9" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="584" y="2161" width="46" height="17"/>
+    </entry>
+    <entry id="65" name="up:Q6W5Q3" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q6W5Q3">
+        <graphics name="Q6W5Q3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="486" y="2161" width="46" height="17"/>
+    </entry>
+    <entry id="66" name="up:Q9EW94" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9EW94">
+        <graphics name="Q9EW94" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="386" y="2160" width="46" height="17"/>
+    </entry>
+    <entry id="67" name="up:Q9EWA1" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9EWA1">
+        <graphics name="Q9EWA1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="354" y="2272" width="46" height="17"/>
+    </entry>
+    <entry id="68" name="up:Q9EW92" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9EW92">
+        <graphics name="Q9EW92" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="263" y="2301" width="46" height="17"/>
+    </entry>
+    <entry id="69" name="up:Q9EWA2" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9EWA2">
+        <graphics name="Q9EWA2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="202" y="2290" width="46" height="17"/>
+    </entry>
+    <entry id="70" name="up:Q9EWA3" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9EWA3">
+        <graphics name="Q9EWA3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="153" y="2272" width="46" height="17"/>
+    </entry>
+    <entry id="71" name="up:Q9X992" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9X992">
+        <graphics name="Q9X992" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="96" y="2213" width="46" height="17"/>
+    </entry>
+    <entry id="72" name="up:Q9EWA4" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9EWA4">
+        <graphics name="Q9EWA4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="296" y="2122" width="46" height="17"/>
+    </entry>
+    <entry id="73" name="up:Q9X993" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9X993">
+        <graphics name="Q9X993" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="186" y="2161" width="46" height="17"/>
+    </entry>
+    <entry id="74" name="up:Q9L4W8" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9L4W8">
+        <graphics name="Q9L4W8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="935" y="1901" width="46" height="17"/>
+    </entry>
+    <entry id="75" name="up:Q9L4X3" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9L4X3">
+        <graphics name="Q9L4X3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="901" y="2021" width="46" height="17"/>
+    </entry>
+    <entry id="76" name="up:Q9L4W6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9L4W6">
+        <graphics name="Q9L4W6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="844" y="1863" width="46" height="17"/>
+    </entry>
+    <entry id="77" name="up:Q9L4X0" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9L4X0">
+        <graphics name="Q9L4X0" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="795" y="2041" width="46" height="17"/>
+    </entry>
+    <entry id="78" name="up:Q9L4X1" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9L4X1">
+        <graphics name="Q9L4X1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="645" y="2033" width="46" height="17"/>
+    </entry>
+    <entry id="79" name="up:Q9L4X2" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9L4X2">
+        <graphics name="Q9L4X2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="714" y="2021" width="46" height="17"/>
+    </entry>
+    <entry id="80" name="up:Q9L4W5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9L4W5">
+        <graphics name="Q9L4W5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="592" y="2021" width="46" height="17"/>
+    </entry>
+    <entry id="81" name="up:Q9L4W3" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9L4W3">
+        <graphics name="Q9L4W3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="714" y="1901" width="46" height="17"/>
+    </entry>
+    <entry id="82" name="up:Q9L4W4" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9L4W4">
+        <graphics name="Q9L4W4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="581" y="1901" width="46" height="17"/>
+    </entry>
+    <entry id="83" name="up:Q93NX9" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93NX9">
+        <graphics name="Q93NX9" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="426" y="2021" width="46" height="17"/>
+    </entry>
+    <entry id="84" name="up:Q93NX6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93NX6">
+        <graphics name="Q93NX6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="275" y="2041" width="45" height="17"/>
+    </entry>
+    <entry id="85" name="up:Q93NX8" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93NX8">
+        <graphics name="Q93NX8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="240" y="2021" width="46" height="17"/>
+    </entry>
+    <entry id="86" name="up:Q93NX7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93NX7">
+        <graphics name="Q93NX7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="170" y="2033" width="46" height="17"/>
+    </entry>
+    <entry id="87" name="up:Q93NW8" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93NW8">
+        <graphics name="Q93NW8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="107" y="2021" width="46" height="17"/>
+    </entry>
+    <entry id="88" name="up:Q93NX1" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93NX1">
+        <graphics name="Q93NX1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="454" y="1901" width="46" height="17"/>
+    </entry>
+    <entry id="89" name="up:Q93NW9" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93NW9">
+        <graphics name="Q93NW9" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="368" y="1863" width="46" height="17"/>
+    </entry>
+    <entry id="90" name="up:Q93NW6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93NW6">
+        <graphics name="Q93NW6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="240" y="1901" width="46" height="17"/>
+    </entry>
+    <entry id="91" name="up:Q93NW7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q93NW7">
+        <graphics name="Q93NW7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="107" y="1901" width="46" height="17"/>
+    </entry>
+    <entry id="92" name="up:RIFF_AMYMD" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+RIFF_AMYMD">
+        <graphics name="RIFF_AMYMD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="683" y="1688" width="45" height="17"/>
+    </entry>
+    <entry id="93" name="up:O54593" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O54593">
+        <graphics name="O54593" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="694" y="1613" width="46" height="17"/>
+    </entry>
+    <entry id="94" name="up:O54591" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O54591">
+        <graphics name="O54591" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="668" y="1556" width="46" height="17"/>
+    </entry>
+    <entry id="95" name="up:O52790" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O52790">
+        <graphics name="O52790" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="589" y="1533" width="46" height="17"/>
+    </entry>
+    <entry id="96" name="up:O52545" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O52545">
+        <graphics name="O52545" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="496" y="1544" width="46" height="17"/>
+    </entry>
+    <entry id="97" name="up:O54666" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O54666">
+        <graphics name="O54666" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="471" y="1635" width="47" height="17"/>
+    </entry>
+    <entry id="98" name="up:Q8KUG5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUG5">
+        <graphics name="Q8KUG5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="222" y="1719" width="46" height="17"/>
+    </entry>
+    <entry id="99" name="up:Q8KUF8" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUF8">
+        <graphics name="Q8KUF8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="174" y="1719" width="46" height="17"/>
+    </entry>
+    <entry id="100" name="up:Q8KUG0" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUG0">
+        <graphics name="Q8KUG0" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="307" y="1665" width="46" height="17"/>
+    </entry>
+    <entry id="101" name="up:Q8KUG5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUG5">
+        <graphics name="Q8KUG5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="355" y="1637" width="46" height="17"/>
+    </entry>
+    <entry id="102" name="up:Q8KUF7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUF7">
+        <graphics name="Q8KUF7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="355" y="1615" width="46" height="17"/>
+    </entry>
+    <entry id="103" name="up:Q8KUF6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUF6">
+        <graphics name="Q8KUF6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="301" y="1600" width="46" height="17"/>
+    </entry>
+    <entry id="104" name="up:Q8KUF8" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUF8">
+        <graphics name="Q8KUF8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="307" y="1637" width="46" height="17"/>
+    </entry>
+    <entry id="105" name="up:Q8KUG9" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUG9">
+        <graphics name="Q8KUG9" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="80" y="1655" width="45" height="17"/>
+    </entry>
+    <entry id="106" name="up:Q8KUH3" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUH3">
+        <graphics name="Q8KUH3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="93" y="1573" width="47" height="17"/>
+    </entry>
+    <entry id="107" name="up:Q8KUG7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUG7">
+        <graphics name="Q8KUG7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="384" y="1549" width="45" height="17"/>
+    </entry>
+    <entry id="108" name="up:Q8KUI0" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUI0">
+        <graphics name="Q8KUI0" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="383" y="1521" width="46" height="17"/>
+    </entry>
+    <entry id="109" name="up:Q8KUF9" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUF9">
+        <graphics name="Q8KUF9" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="335" y="1521" width="46" height="17"/>
+    </entry>
+    <entry id="110" name="up:Q8KUF5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUF5">
+        <graphics name="Q8KUF5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="255" y="1512" width="46" height="17"/>
+    </entry>
+    <entry id="111" name="up:Q8KUH4" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUH4">
+        <graphics name="Q8KUH4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="191" y="1512" width="47" height="17"/>
+    </entry>
+    <entry id="112" name="up:Q8KUG5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q8KUG5">
+        <graphics name="Q8KUG5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="81" y="1512" width="46" height="17"/>
+    </entry>
+    <entry id="113" name="up:P95814" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+P95814">
+        <graphics name="P95814" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="944" y="1333" width="47" height="17"/>
+    </entry>
+    <entry id="114" name="up:Q9ZGA4" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGA4">
+        <graphics name="Q9ZGA4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="878" y="1155" width="46" height="17"/>
+    </entry>
+    <entry id="115" name="up:Q9ZGA5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGA5">
+        <graphics name="Q9ZGA5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="821" y="1376" width="47" height="17"/>
+    </entry>
+    <entry id="116" name="up:P95815" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+P95815">
+        <graphics name="P95815" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="821" y="1357" width="47" height="17"/>
+    </entry>
+    <entry id="117" name="up:Q9ZGA6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGA6">
+        <graphics name="Q9ZGA6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="750" y="1279" width="46" height="17"/>
+    </entry>
+    <entry id="118" name="up:P74838" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+P74838">
+        <graphics name="P74838" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="701" y="1119" width="47" height="17"/>
+    </entry>
+    <entry id="119" name="up:Q9KID7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KID7">
+        <graphics name="Q9KID7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="634" y="1333" width="47" height="17"/>
+    </entry>
+    <entry id="120" name="up:Q9KID9" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KID9">
+        <graphics name="Q9KID9" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="510" y="1376" width="47" height="17"/>
+    </entry>
+    <entry id="121" name="up:Q9KID6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KID6">
+        <graphics name="Q9KID6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="510" y="1357" width="47" height="17"/>
+    </entry>
+    <entry id="122" name="up:Q9KIE1" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KIE1">
+        <graphics name="Q9KIE1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="671" y="1260" width="46" height="17"/>
+    </entry>
+    <entry id="123" name="up:Q9KID8" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KID8">
+        <graphics name="Q9KID8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="440" y="1279" width="46" height="17"/>
+    </entry>
+    <entry id="124" name="up:Q9KIE0" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KIE0">
+        <graphics name="Q9KIE0" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="568" y="1155" width="46" height="17"/>
+    </entry>
+    <entry id="125" name="up:Q9KID5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KID5">
+        <graphics name="Q9KID5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="392" y="1119" width="47" height="17"/>
+    </entry>
+    <entry id="126" name="up:Q54299" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q54299">
+        <graphics name="Q54299" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="304" y="1350" width="47" height="17"/>
+    </entry>
+    <entry id="127" name="up:Q54302" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q54302">
+        <graphics name="Q54302" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="203" y="1385" width="46" height="17"/>
+    </entry>
+    <entry id="128" name="up:Q59921" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q59921">
+        <graphics name="Q59921" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="155" y="1385" width="46" height="17"/>
+    </entry>
+    <entry id="129" name="up:Q54298" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q54298">
+        <graphics name="Q54298" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="108" y="1297" width="47" height="17"/>
+    </entry>
+    <entry id="130" name="up:Q54296" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q54296">
+        <graphics name="Q54296" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="352" y="1248" width="46" height="17"/>
+    </entry>
+    <entry id="131" name="up:Q54302" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q54302">
+        <graphics name="Q54302" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="296" y="1119" width="46" height="17"/>
+    </entry>
+    <entry id="132" name="up:Q59921" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q59921">
+        <graphics name="Q59921" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="248" y="1119" width="46" height="17"/>
+    </entry>
+    <entry id="133" name="up:Q54297" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q54297">
+        <graphics name="Q54297" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="141" y="1144" width="47" height="17"/>
+    </entry>
+    <entry id="134" name="up:O30767" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O30767">
+        <graphics name="O30767" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="583" y="903" width="46" height="17"/>
+    </entry>
+    <entry id="135" name="up:O30768" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O30768">
+        <graphics name="O30768" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="528" y="903" width="47" height="17"/>
+    </entry>
+    <entry id="136" name="up:O30766" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O30766">
+        <graphics name="O30766" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="605" y="770" width="46" height="17"/>
+    </entry>
+    <entry id="137" name="up:O30764" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O30764">
+        <graphics name="O30764" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="469" y="821" width="46" height="17"/>
+    </entry>
+    <entry id="138" name="up:O30765" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O30765">
+        <graphics name="O30765" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="498" y="770" width="47" height="17"/>
+    </entry>
+    <entry id="139" name="up:Q9XC67" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9XC67">
+        <graphics name="Q9XC67" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="401" y="864" width="45" height="17"/>
+    </entry>
+    <entry id="140" name="up:P95747" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+P95747">
+        <graphics name="P95747" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="366" y="824" width="46" height="17"/>
+    </entry>
+    <entry id="141" name="up:Q59910" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q59910">
+        <graphics name="Q59910" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="414" y="803" width="46" height="17"/>
+    </entry>
+    <entry id="142" name="up:Q9S4D6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9S4D6">
+        <graphics name="Q9S4D6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="366" y="803" width="46" height="17"/>
+    </entry>
+    <entry id="143" name="up:O87830" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O87830">
+        <graphics name="O87830" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="639" y="506" width="46" height="17"/>
+    </entry>
+    <entry id="144" name="up:O87605" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O87605">
+        <graphics name="O87605" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="712" y="506" width="47" height="17"/>
+    </entry>
+    <entry id="145" name="up:Q9ZGI5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGI5">
+        <graphics name="Q9ZGI5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="768" y="443" width="46" height="17"/>
+    </entry>
+    <entry id="146" name="up:O33939" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O33939">
+        <graphics name="O33939" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="234" y="620" width="47" height="17"/>
+    </entry>
+    <entry id="147" name="up:Q9F828" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9F828">
+        <graphics name="Q9F828" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="220" y="591" width="45" height="17"/>
+    </entry>
+    <entry id="148" name="up:O33935" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O33935">
+        <graphics name="O33935" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="342" y="506" width="47" height="17"/>
+    </entry>
+    <entry id="149" name="up:ERY3_SACER" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+ERY3_SACER">
+        <graphics name="ERY3_SACER" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="168" y="591" width="46" height="17"/>
+    </entry>
+    <entry id="150" name="up:Q9F829" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9F829">
+        <graphics name="Q9F829" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="349" y="444" width="45" height="17"/>
+    </entry>
+    <entry id="151" name="up:Q9F830" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9F830">
+        <graphics name="Q9F830" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="160" y="444" width="46" height="17"/>
+    </entry>
+    <entry id="152" name="up:Q9ZGI3" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGI3">
+        <graphics name="Q9ZGI3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="251" y="296" width="46" height="17"/>
+    </entry>
+    <entry id="153" name="up:Q9ZGH7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGH7">
+        <graphics name="Q9ZGH7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="359" y="223" width="46" height="17"/>
+    </entry>
+    <entry id="154" name="up:Q9F826" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9F826">
+        <graphics name="Q9F826" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="395" y="506" width="46" height="17"/>
+    </entry>
+    <entry id="155" name="up:Q9ZGI2" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGI2">
+        <graphics name="Q9ZGI2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="785" y="581" width="46" height="17"/>
+    </entry>
+    <entry id="156" name="up:O33958" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O33958">
+        <graphics name="O33958" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="221" y="903" width="47" height="17"/>
+    </entry>
+    <entry id="157" name="up:Q9KIV4" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KIV4">
+        <graphics name="Q9KIV4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="453" y="444" width="46" height="17"/>
+    </entry>
+    <entry id="158" name="up:Q59819" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q59819">
+        <graphics name="Q59819" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="552" y="414" width="45" height="17"/>
+    </entry>
+    <entry id="159" name="up:O70023" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O70023">
+        <graphics name="O70023" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="96" y="834" width="46" height="17"/>
+    </entry>
+    <entry id="160" name="up:O33955" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O33955">
+        <graphics name="O33955" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="194" y="770" width="47" height="17"/>
+    </entry>
+    <entry id="161" name="up:O33954" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O33954">
+        <graphics name="O33954" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="138" y="888" width="46" height="17"/>
+    </entry>
+    <entry id="162" name="up:O33956" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O33956">
+        <graphics name="O33956" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="301" y="770" width="46" height="17"/>
+    </entry>
+    <entry id="163" name="up:Q9ZGI4" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGI4">
+        <graphics name="Q9ZGI4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="876" y="443" width="46" height="17"/>
+    </entry>
+    <entry id="164" name="up:Q9F823" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9F823">
+        <graphics name="Q9F823" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="288" y="414" width="46" height="17"/>
+    </entry>
+    <entry id="165" name="up:Q9S4D6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9S4D6">
+        <graphics name="Q9S4D6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="96" y="803" width="46" height="17"/>
+    </entry>
+    <entry id="166" name="up:ERY2_SACER" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+ERY2_SACER">
+        <graphics name="ERY2_SACER" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="297" y="444" width="46" height="17"/>
+    </entry>
+    <entry id="167" name="up:Q9ZGI3" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGI3">
+        <graphics name="Q9ZGI3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="854" y="581" width="46" height="17"/>
+    </entry>
+    <entry id="168" name="up:Q9KIV3" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9KIV3">
+        <graphics name="Q9KIV3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="591" y="444" width="47" height="17"/>
+    </entry>
+    <entry id="169" name="up:CPXQ_SACER" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+CPXQ_SACER">
+        <graphics name="CPXQ_SACER" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="107" y="475" width="47" height="17"/>
+    </entry>
+    <entry id="170" name="path:map00522" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map00522.html">
+        <graphics name="Biosynthesis of 12-, 14- and 16-membered macrolides" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="232" y="1002" width="279" height="27"/>
+    </entry>
+    <entry id="171" name="up:O33957" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O33957">
+        <graphics name="O33957" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="280" y="903" width="46" height="17"/>
+    </entry>
+    <entry id="172" name="up:O87831" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O87831">
+        <graphics name="O87831" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="555" y="620" width="46" height="17"/>
+    </entry>
+    <entry id="173" name="up:CPXJ_SACER" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+CPXJ_SACER">
+        <graphics name="CPXJ_SACER" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="235" y="414" width="47" height="17"/>
+    </entry>
+    <entry id="174" name="up:Q9ZGI4" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGI4">
+        <graphics name="Q9ZGI4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="286" y="165" width="46" height="17"/>
+    </entry>
+    <entry id="175" name="up:Q9ZGI5" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGI5">
+        <graphics name="Q9ZGI5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="177" y="165" width="46" height="17"/>
+    </entry>
+    <entry id="176" name="up:O87605" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+O87605">
+        <graphics name="O87605" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="121" y="223" width="47" height="17"/>
+    </entry>
+    <entry id="177" name="up:Q9F832" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9F832">
+        <graphics name="Q9F832" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="287" y="620" width="46" height="17"/>
+    </entry>
+    <entry id="178" name="up:Q59910" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q59910">
+        <graphics name="Q59910" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="144" y="803" width="46" height="17"/>
+    </entry>
+    <entry id="179" name="up:ERY1_SACER" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+ERY1_SACER">
+        <graphics name="ERY1_SACER" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="107" y="444" width="47" height="17"/>
+    </entry>
+    <entry id="180" name="up:Q9ZGH7" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+Q9ZGH7">
+        <graphics name="Q9ZGH7" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="943" y="506" width="46" height="17"/>
+    </entry>
+    <entry id="181" name="path:map01052" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map01052">
+        <graphics name="TITLE:Type I polyketide structures" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="162" y="51" width="244" height="25"/>
+    </entry>
+    <entry id="182" name="sma:SAV945" type="other">
+        <graphics name="aveBI" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="962" y="778" width="46" height="17"/>
+    </entry>
+    <entry id="183" name="sma:SAV945" type="other">
+        <graphics name="aveBI" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="964" y="823" width="46" height="17"/>
+    </entry>
+    <entry id="184" name="sma:SAV941" type="other">
+        <graphics name="aveE" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="915" y="899" width="46" height="17"/>
+    </entry>
+    <entry id="185" name="sma:SAV942" type="other">
+        <graphics name="aveA3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="877" y="866" width="46" height="17"/>
+    </entry>
+    <entry id="186" name="sma:SAV943" type="other">
+        <graphics name="aveA4" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="845" y="939" width="46" height="17"/>
+    </entry>
+    <entry id="187" name="sma:SAV937" type="other">
+        <graphics name="aveD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="720" y="951" width="46" height="17"/>
+    </entry>
+    <entry id="188" name="sma:SAV936" type="other">
+        <graphics name="aveF" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="720" y="932" width="46" height="17"/>
+    </entry>
+    <entry id="189" name="sma:SAV939" type="other">
+        <graphics name="aveA2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="817" y="752" width="46" height="17"/>
+    </entry>
+    <entry id="190" name="sma:SAV938" type="other">
+        <graphics name="aveA1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="726" y="741" width="45" height="17"/>
+    </entry>
+</pathway>

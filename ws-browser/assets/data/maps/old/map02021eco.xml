@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Aug 25 2008 02:22:02 +0900 (JST) -->
+<pathway name="path:map02021eco" org="map" number="02021eco"
+         image="http://www.genome.jp/kegg/pathway/map/map02021eco.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map02021eco">
+    <entry id="1" name="path:eco00910" type="map"
+        link="http://www.genome.jp/kegg/pathway/eco/eco00910.html">
+        <graphics name="Nitrogen metabolism" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="547" y="229" width="72" height="29"/>
+    </entry>
+    <entry id="2" name="path:eco00251" type="map"
+        link="http://www.genome.jp/kegg/pathway/eco/eco00251.html">
+        <graphics name="Glutamate metabolism" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="429" y="169" width="74" height="28"/>
+    </entry>
+    <entry id="3" name="eco:b0980" type="other">
+        <graphics name="appA, ECK0971, JW0963" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="357" y="326" width="45" height="17"/>
+    </entry>
+    <entry id="4" name="eco:b1130" type="other">
+        <graphics name="phoP, ECK1116, JW1116" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="326" width="45" height="17"/>
+    </entry>
+    <entry id="5" name="eco:b1129" type="other">
+        <graphics name="phoQ, ECK1115, JW1115" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="326" width="45" height="17"/>
+    </entry>
+    <entry id="6" name="eco:b0383" type="other">
+        <graphics name="phoA, ECK0378, psiA, JW0374" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="357" y="292" width="45" height="17"/>
+    </entry>
+    <entry id="7" name="eco:b0399" type="other">
+        <graphics name="phoB, ECK0393, phoRc, JW0389" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="292" width="45" height="17"/>
+    </entry>
+    <entry id="8" name="eco:b0400" type="other">
+        <graphics name="phoR, ECK0394, nmpB, R1pho, JW0390, phoR1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="292" width="45" height="17"/>
+    </entry>
+    <entry id="9" name="eco:b4151" type="other">
+        <graphics name="frdD, ECK4147, JW4112" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="494" y="259" width="46" height="17"/>
+    </entry>
+    <entry id="10" name="eco:b4152" type="other">
+        <graphics name="frdC, ECK4148, JW4113" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="448" y="259" width="45" height="17"/>
+    </entry>
+    <entry id="11" name="eco:b4153" type="other">
+        <graphics name="frdB, ECK4149, JW4114" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="403" y="259" width="46" height="17"/>
+    </entry>
+    <entry id="12" name="eco:b4154" type="other">
+        <graphics name="frdA, ECK4150, JW4115" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="357" y="259" width="45" height="17"/>
+    </entry>
+    <entry id="13" name="eco:b1476" type="other">
+        <graphics name="fdnI, ECK1470, JW1472" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="448" y="230" width="45" height="17"/>
+    </entry>
+    <entry id="14" name="eco:b1475" type="other">
+        <graphics name="fdnH, ECK1469, JW1471" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="403" y="230" width="46" height="17"/>
+    </entry>
+    <entry id="15" name="eco:b1474" type="other">
+        <graphics name="fdnG, ECK1468, JW1470" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="357" y="230" width="45" height="17"/>
+    </entry>
+    <entry id="16" name="eco:b2193" type="other">
+        <graphics name="narP, ECK2185, JW2181" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="243" y="230" width="45" height="17"/>
+    </entry>
+    <entry id="17" name="eco:b2469" type="other">
+        <graphics name="narQ, ECK2464, JW2453" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="230" width="45" height="17"/>
+    </entry>
+    <entry id="18" name="eco:b1227" type="other">
+        <graphics name="narI, ECK1221, chlI, JW1218" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="494" y="201" width="45" height="17"/>
+    </entry>
+    <entry id="19" name="eco:b1226" type="other">
+        <graphics name="narJ, ECK1220, JW1217" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="449" y="201" width="46" height="17"/>
+    </entry>
+    <entry id="20" name="eco:b1225" type="other">
+        <graphics name="narH, ECK1219, chlC, JW1216" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="403" y="201" width="45" height="17"/>
+    </entry>
+    <entry id="21" name="eco:b1224" type="other">
+        <graphics name="narG, ECK1218, JW1215, narC, chlC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="358" y="201" width="46" height="17"/>
+    </entry>
+    <entry id="22" name="eco:b1221" type="other">
+        <graphics name="narL, ECK1215, JW1212, frdR" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="201" width="45" height="17"/>
+    </entry>
+    <entry id="23" name="eco:b1222" type="other">
+        <graphics name="narX, ECK1216, frdR, JW1213, narR" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="201" width="45" height="17"/>
+    </entry>
+    <entry id="24" name="eco:b3870" type="other">
+        <graphics name="glnA, ECK3863, JW3841" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="358" y="168" width="46" height="17"/>
+    </entry>
+    <entry id="25" name="eco:b3868" type="other">
+        <graphics name="glnG, ECK3861, glnT, JW3839, ntrC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="168" width="45" height="17"/>
+    </entry>
+    <entry id="26" name="eco:b3869" type="other">
+        <graphics name="glnL, ECK3862, glnR, ntrB, JW3840" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="175" y="168" width="45" height="17"/>
+    </entry>
+    <entry id="27" name="eco:b2553" type="other">
+        <graphics name="glnB, ECK2550, JW2537" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="134" width="45" height="17"/>
+    </entry>
+    <entry id="28" name="eco:b0167" type="other">
+        <graphics name="glnD, ECK0165, JW0162" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="175" y="134" width="45" height="17"/>
+    </entry>
+    <entry id="29" name="eco:b0929" type="other">
+        <graphics name="ompF, ECK0920, cry, cmlB, coa, tolF, JW0912" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="357" y="116" width="45" height="17"/>
+    </entry>
+    <entry id="30" name="eco:b2215" type="other">
+        <graphics name="ompC, ECK2207, meoA, JW2203, par" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="357" y="88" width="45" height="17"/>
+    </entry>
+    <entry id="31" name="eco:b3405" type="other">
+        <graphics name="ompR, ECK3392, ompB, JW3368, kmt" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="100" width="45" height="17"/>
+    </entry>
+    <entry id="32" name="eco:b3404" type="other">
+        <graphics name="envZ, ECK3391, tpo, ompB, JW3367, perA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="100" width="45" height="17"/>
+    </entry>
+    <entry id="33" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="299" y="102" width="8" height="8"/>
+    </entry>
+    <entry id="34" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="301" y="169" width="8" height="8"/>
+    </entry>
+    <entry id="35" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="302" y="202" width="8" height="8"/>
+    </entry>
+    <entry id="36" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="302" y="293" width="8" height="8"/>
+    </entry>
+    <entry id="37" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="302" y="327" width="8" height="8"/>
+    </entry>
+    <entry id="38" name="cpd:C00244" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00244">
+        <graphics name="C00244" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="74" y="215" width="8" height="8"/>
+    </entry>
+    <entry id="39" name="cpd:C00009" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00009">
+        <graphics name="C00009" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="75" y="293" width="8" height="8"/>
+    </entry>
+    <entry id="40" name="eco:b0095" type="other">
+        <graphics name="ftsZ, ECK0096, JW0093, sfiB, sulB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="357" y="546" width="45" height="17"/>
+    </entry>
+    <entry id="41" name="eco:b1951" type="other">
+        <graphics name="rcsA, ECK1949, cpsR, JW1935" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="539" width="45" height="17"/>
+    </entry>
+    <entry id="42" name="eco:b2217" type="other">
+        <graphics name="rcsB, ECK2210, JW2205, viaA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="517" width="45" height="17"/>
+    </entry>
+    <entry id="43" name="eco:b2218" type="other">
+        <graphics name="rcsC, ECK2211, JW5920, JW5917" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="539" width="45" height="17"/>
+    </entry>
+    <entry id="44" name="eco:b3667" type="other">
+        <graphics name="uhpC, ECK3658, JW3642" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="483" width="45" height="17"/>
+    </entry>
+    <entry id="45" name="eco:b3666" type="other">
+        <graphics name="uhpT, ECK3657, JW3641" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="357" y="461" width="45" height="17"/>
+    </entry>
+    <entry id="46" name="eco:b3669" type="other">
+        <graphics name="uhpA, ECK3660, JW3644" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="461" width="45" height="17"/>
+    </entry>
+    <entry id="47" name="eco:b3668" type="other">
+        <graphics name="uhpB, ECK3659, JW3643" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="461" width="45" height="17"/>
+    </entry>
+    <entry id="48" name="eco:b0998" type="other">
+        <graphics name="torD, ECK0989, JW0983" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="449" y="427" width="46" height="17"/>
+    </entry>
+    <entry id="49" name="eco:b0997" type="other">
+        <graphics name="torA, ECK0988, JW0982" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="403" y="427" width="45" height="17"/>
+    </entry>
+    <entry id="50" name="eco:b0996" type="other">
+        <graphics name="torC, ECK0987, JW0981" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="358" y="427" width="46" height="17"/>
+    </entry>
+    <entry id="51" name="eco:b0995" type="other">
+        <graphics name="torR, ECK0986, JW0980" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="427" width="45" height="17"/>
+    </entry>
+    <entry id="52" name="eco:b0993" type="other">
+        <graphics name="torS, ECK0984, yccI, JW5135" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="427" width="45" height="17"/>
+    </entry>
+    <entry id="53" name="eco:b0696" type="other">
+        <graphics name="kdpC, ECK0684, kac, JW0684" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="449" y="393" width="46" height="17"/>
+    </entry>
+    <entry id="54" name="eco:b0697" type="other">
+        <graphics name="kdpB, ECK0685, JW0685, kac" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="403" y="393" width="45" height="17"/>
+    </entry>
+    <entry id="55" name="eco:b0698" type="other">
+        <graphics name="kdpA, ECK0686, JW0686, kac" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="358" y="393" width="46" height="17"/>
+    </entry>
+    <entry id="56" name="eco:b0694" type="other">
+        <graphics name="kdpE, ECK0682, JW5096" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="393" width="45" height="17"/>
+    </entry>
+    <entry id="57" name="eco:b0695" type="other">
+        <graphics name="kdpD, ECK0683, kac, JW0683" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="393" width="45" height="17"/>
+    </entry>
+    <entry id="58" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="303" y="394" width="8" height="8"/>
+    </entry>
+    <entry id="59" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="303" y="428" width="8" height="8"/>
+    </entry>
+    <entry id="60" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="302" y="462" width="8" height="8"/>
+    </entry>
+    <entry id="61" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="303" y="518" width="8" height="8"/>
+    </entry>
+    <entry id="62" name="cpd:C01104" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C01104">
+        <graphics name="C01104" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="75" y="427" width="8" height="8"/>
+    </entry>
+    <entry id="63" name="cpd:C00092" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00092">
+        <graphics name="C00092" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="75" y="462" width="8" height="8"/>
+    </entry>
+    <entry id="64" name="eco:b4398" type="other">
+        <graphics name="creB, ECK4390, JW4361, yjjE, ORF2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="743" width="45" height="17"/>
+    </entry>
+    <entry id="65" name="eco:b4399" type="other">
+        <graphics name="creC, ECK4391, JW4362, phoM" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="743" width="45" height="17"/>
+    </entry>
+    <entry id="66" name="eco:b4113" type="other">
+        <graphics name="basR, ECK4106, JW4074, pmrA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="709" width="45" height="17"/>
+    </entry>
+    <entry id="67" name="eco:b4112" type="other">
+        <graphics name="basS, ECK4105, pmrB, JW4073" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="709" width="45" height="17"/>
+    </entry>
+    <entry id="68" name="eco:b3912" type="other">
+        <graphics name="cpxR, ECK3905, yiiA, JW3883" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="69" name="eco:b3911" type="other">
+        <graphics name="cpxA, ECK3904, rssE, ssd, ecfB, eup, JW3882" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="70" name="eco:b4401" type="other">
+        <graphics name="arcA, ECK4393, cpxC, fexA, sfrA, msp, seg, JW4364, dye" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="641" width="45" height="17"/>
+    </entry>
+    <entry id="71" name="eco:b3210" type="other">
+        <graphics name="arcB, ECK3200, JW5536" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="641" width="45" height="17"/>
+    </entry>
+    <entry id="72" name="eco:b4004" type="other">
+        <graphics name="zraR, ECK3996, hydG, JW3968" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="606" width="45" height="17"/>
+    </entry>
+    <entry id="73" name="eco:b4003" type="other">
+        <graphics name="zraS, ECK3995, hydH, JW3967" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="606" width="45" height="17"/>
+    </entry>
+    <entry id="74" name="eco:b2220" type="other">
+        <graphics name="atoC, ECK2213, Az, JW2214" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="573" width="45" height="17"/>
+    </entry>
+    <entry id="75" name="eco:b2219" type="other">
+        <graphics name="atoS, ECK2212, JW2213" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="573" width="45" height="17"/>
+    </entry>
+    <entry id="76" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="302" y="575" width="8" height="8"/>
+    </entry>
+    <entry id="77" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="303" y="607" width="8" height="8"/>
+    </entry>
+    <entry id="78" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="303" y="642" width="8" height="8"/>
+    </entry>
+    <entry id="79" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="304" y="676" width="8" height="8"/>
+    </entry>
+    <entry id="80" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="303" y="710" width="8" height="8"/>
+    </entry>
+    <entry id="81" name="cpd:C00039" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00039">
+        <graphics name="C00039" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="304" y="745" width="8" height="8"/>
+    </entry>
+    <entry id="82" name="eco:b2078" type="other">
+        <graphics name="baeS, ECK2074, JW2063" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="640" y="100" width="45" height="17"/>
+    </entry>
+    <entry id="83" name="eco:b0570" type="other">
+        <graphics name="cusS, ECK0562, silS, JW5082, ybcZ" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="641" y="134" width="45" height="17"/>
+    </entry>
+    <entry id="84" name="eco:b1968" type="other">
+        <graphics name="yedV, ECK1964, JW1951" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="641" y="168" width="45" height="17"/>
+    </entry>
+    <entry id="85" name="eco:b3026" type="other">
+        <graphics name="qseC, ECK3017, ygiY, JW2994" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="640" y="201" width="45" height="17"/>
+    </entry>
+    <entry id="86" name="eco:b2370" type="other">
+        <graphics name="evgS, ECK2366, JW2367" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="640" y="236" width="45" height="17"/>
+    </entry>
+    <entry id="87" name="eco:b2556" type="other">
+        <graphics name="yfhK, ECK2553, yfhZ, JW5407" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="641" y="338" width="45" height="17"/>
+    </entry>
+    <entry id="88" name="eco:b0619" type="other">
+        <graphics name="dpiB, ECK0612, mpdB, JW0611, ybeP, citA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="640" y="372" width="45" height="17"/>
+    </entry>
+    <entry id="89" name="eco:b4125" type="other">
+        <graphics name="dcuS, ECK4118, JW4086, yjdH" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="641" y="406" width="45" height="17"/>
+    </entry>
+    <entry id="90" name="eco:b2126" type="other">
+        <graphics name="yehU, ECK2118, JW5353" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="640" y="440" width="45" height="17"/>
+    </entry>
+    <entry id="91" name="eco:b2380" type="other">
+        <graphics name="ypdA, ECK2376, JW5388" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="640" y="474" width="45" height="17"/>
+    </entry>
+    <entry id="92" name="eco:b2786" type="other">
+        <graphics name="barA, ECK2780, airS, JW2757" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="640" y="304" width="45" height="17"/>
+    </entry>
+    <entry id="93" name="eco:b0571" type="other">
+        <graphics name="cusR, ECK0563, ylcA, silR, JW0560" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="134" width="45" height="17"/>
+    </entry>
+    <entry id="94" name="eco:b1969" type="other">
+        <graphics name="yedW, ECK1965, JW5322" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="168" width="45" height="17"/>
+    </entry>
+    <entry id="95" name="eco:b3025" type="other">
+        <graphics name="qseB, ECK3016, ygiX, JW2993" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="201" width="45" height="17"/>
+    </entry>
+    <entry id="96" name="eco:b2369" type="other">
+        <graphics name="evgA, ECK2365, JW2366" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="236" width="45" height="17"/>
+    </entry>
+    <entry id="97" name="eco:b0535" type="other">
+        <graphics name="fimZ, ECK0528, ybcA, JW5073" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="270" width="45" height="17"/>
+    </entry>
+    <entry id="98" name="eco:b1914" type="other">
+        <graphics name="uvrY, ECK1913, JW1899, yecB, sirA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="304" width="45" height="17"/>
+    </entry>
+    <entry id="99" name="eco:b2554" type="other">
+        <graphics name="yfhA, ECK2551, JW2538" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="337" width="45" height="17"/>
+    </entry>
+    <entry id="100" name="eco:b0620" type="other">
+        <graphics name="dpiA, ECK0613, JW0612, citB, criR, mpdA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="371" width="45" height="17"/>
+    </entry>
+    <entry id="101" name="eco:b4124" type="other">
+        <graphics name="dcuR, ECK4117, JW4085, yjdG" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="405" width="45" height="17"/>
+    </entry>
+    <entry id="102" name="eco:b2125" type="other">
+        <graphics name="yehT, ECK2117, JW5352" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="439" width="45" height="17"/>
+    </entry>
+    <entry id="103" name="eco:b2381" type="other">
+        <graphics name="ypdB, ECK2377, JW2378" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="473" width="45" height="17"/>
+    </entry>
+    <entry id="104" name="eco:b1235" type="other">
+        <graphics name="rssB, ECK1230, ychL, sprE, mviA, verA, JW1223, hnr" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="507" width="45" height="17"/>
+    </entry>
+    <entry id="105" name="eco:b2079" type="other">
+        <graphics name="baeR, ECK2075, JW2064" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="754" y="100" width="45" height="17"/>
+    </entry>
+    <entry id="106" name="eco:b1609" type="other">
+        <graphics name="rstB, ECK1604, uspT, JW1601" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="359" width="45" height="17"/>
+    </entry>
+    <entry id="107" name="eco:b1608" type="other">
+        <graphics name="rstA, ECK1603, urpT, JW1600" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="244" y="359" width="45" height="17"/>
+    </entry>
+    <entry id="108" name="path:map02021" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map02021">
+        <graphics name="TITLE:" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="194" y="35" width="171" height="25"/>
+    </entry>
+    <entry id="109" name="eco:b2216" type="other">
+        <graphics name="rcsD, ECK2209, JW2204, yojN, yojP, yojQ" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="131" y="517" width="45" height="17"/>
+    </entry>
+</pathway>

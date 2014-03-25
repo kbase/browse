@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Jul 30 2008 19:30:25 +0900 (JST) -->
+<pathway name="path:map05332" org="map" number="05332"
+         title="Graft-versus-host disease"
+         image="http://www.genome.jp/kegg/pathway/map/map05332.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map05332">
+    <entry id="1" name="path:map04660" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map04660.html">
+        <graphics name="T cell receptor signaling pathway" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="588" y="133" width="113" height="34"/>
+    </entry>
+    <entry id="2" name="ko:K06752" type="ortholog">
+        <graphics name="K06752" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="460" y="202" width="46" height="17"/>
+    </entry>
+    <entry id="3" name="ko:K10784 ko:K10785" type="ortholog">
+        <graphics name="K10784..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="541" y="202" width="46" height="17"/>
+    </entry>
+    <entry id="5" name="path:map04612" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map04612.html">
+        <graphics name="Antigen processing and presentation" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="413" y="133" width="112" height="34"/>
+    </entry>
+    <entry id="6" name="path:map04514" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map04514.html">
+        <graphics name="Cell adhesion molecules (CAMs)" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="496" y="315" width="113" height="34"/>
+    </entry>
+    <entry id="7" name="path:map05332" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map05332">
+        <graphics name="TITLE:Graft-versus-host disease" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="177" y="67" width="235" height="25"/>
+    </entry>
+    <entry id="8" name="ko:K04390" type="ortholog">
+        <graphics name="K04390" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1043" y="132" width="46" height="17"/>
+    </entry>
+    <entry id="9" name="ko:K04389" type="ortholog">
+        <graphics name="K04389" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="966" y="132" width="46" height="17"/>
+    </entry>
+    <entry id="10" name="ko:K10784 ko:K10785" type="ortholog">
+        <graphics name="K10784..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="966" y="104" width="46" height="17"/>
+    </entry>
+    <entry id="11" name="ko:K06751" type="ortholog">
+        <graphics name="K06751" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1043" y="104" width="46" height="17"/>
+    </entry>
+    <entry id="12" name="ko:K07818" type="ortholog">
+        <graphics name="K07818" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1003" y="174" width="46" height="17"/>
+    </entry>
+    <entry id="14" name="ec:3.4.21.79" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.4.21.79">
+        <graphics name="3.4.21.79" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1003" y="199" width="46" height="17"/>
+    </entry>
+    <entry id="15" name="path:map04210" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map04210.html">
+        <graphics name="Apoptosis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="1096" y="209" width="112" height="25"/>
+    </entry>
+    <entry id="16" name="path:map04650" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map04650.html">
+        <graphics name="Natural killer cell mediated cytotoxicity" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="912" y="377" width="112" height="34"/>
+    </entry>
+    <entry id="17" name="ko:K06470" type="ortholog">
+        <graphics name="K06470" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="541" y="225" width="46" height="17"/>
+    </entry>
+    <entry id="18" name="ko:K04687" type="ortholog">
+        <graphics name="K04687" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="814" y="274" width="46" height="17"/>
+    </entry>
+    <entry id="19" name="ko:K03156" type="ortholog">
+        <graphics name="K03156" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="999" y="480" width="46" height="17"/>
+    </entry>
+    <entry id="20" name="cpd:C00533" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00533">
+        <graphics name="C00533" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="998" y="527" width="8" height="8"/>
+    </entry>
+    <entry id="21" name="ko:K05412 ko:K05413" type="ortholog">
+        <graphics name="K05412..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="460" y="225" width="46" height="17"/>
+    </entry>
+    <entry id="22" name="ko:K04390" type="ortholog">
+        <graphics name="K04390" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1043" y="296" width="46" height="17"/>
+    </entry>
+    <entry id="23" name="ko:K04389" type="ortholog">
+        <graphics name="K04389" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="966" y="296" width="46" height="17"/>
+    </entry>
+    <entry id="24" name="ec:3.4.21.79" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.4.21.79">
+        <graphics name="3.4.21.79" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1003" y="361" width="46" height="17"/>
+    </entry>
+    <entry id="25" name="ko:K07818" type="ortholog">
+        <graphics name="K07818" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1003" y="335" width="46" height="17"/>
+    </entry>
+    <entry id="26" name="ko:K05429" type="ortholog">
+        <graphics name="K05429" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="813" y="153" width="46" height="17"/>
+    </entry>
+    <entry id="27" name="cpd:C00338" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00338">
+        <graphics name="C00338" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="578" y="548" width="8" height="8"/>
+    </entry>
+    <entry id="28" name="ko:K05405" type="ortholog">
+        <graphics name="K05405" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="369" y="322" width="46" height="17"/>
+    </entry>
+    <entry id="29" name="ko:K04383 ko:K04519" type="ortholog">
+        <graphics name="K04383..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="369" y="343" width="46" height="17"/>
+    </entry>
+    <entry id="30" name="ko:K04687" type="ortholog">
+        <graphics name="K04687" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="778" y="407" width="46" height="17"/>
+    </entry>
+    <entry id="31" name="ko:K04383 ko:K04519" type="ortholog">
+        <graphics name="K04383..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="999" y="503" width="46" height="17"/>
+    </entry>
+    <entry id="32" name="ko:K03156" type="ortholog">
+        <graphics name="K03156" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="369" y="366" width="46" height="17"/>
+    </entry>
+    <entry id="33" name="path:map04620" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map04620.html">
+        <graphics name="Toll-like receptor signaling pathway" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="788" y="568" width="113" height="34"/>
+    </entry>
+    <entry id="34" name="ko:K06751" type="ortholog">
+        <graphics name="K06751" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1043" y="267" width="46" height="17"/>
+    </entry>
+    <entry id="35" name="hsa:3811 hsa:3812 hsa:3802 hsa:3803 hsa:3804 hsa:57292 hsa:3821 hsa:3824 mmu:16627 mmu:16634 mmu:16638 mmu:16640 mmu:16641 mmu:16643 rno:29683 rno:25110" type="other">
+        <graphics name="KIR3DL1, KIR..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="966" y="267" width="46" height="17"/>
+    </entry>
+    <entry id="36" name="path:map04060" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map04060.html">
+        <graphics name="Cytokine-cytokine receptor interaction" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="591" y="444" width="113" height="34"/>
+    </entry>
+    <relation entry1="2" entry2="3" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="11" entry2="10" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="9" entry2="8" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="21" entry2="17" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="23" entry2="22" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="34" entry2="35" type="PPrel">
+        <subtype name="missing" value="-/>"/>
+    </relation>
+</pathway>

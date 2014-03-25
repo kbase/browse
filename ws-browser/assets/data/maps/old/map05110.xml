@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Jul 30 2008 19:30:25 +0900 (JST) -->
+<pathway name="path:map05110" org="map" number="05110"
+         title="Vibrio cholerae infection"
+         image="http://www.genome.jp/kegg/pathway/map/map05110.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map05110">
+    <entry id="1" name="ko:K10955" type="ortholog">
+        <graphics name="K10955" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="245" y="708" width="45" height="17"/>
+    </entry>
+    <entry id="2" name="ko:K10935" type="ortholog">
+        <graphics name="K10935" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="198" y="665" width="45" height="17"/>
+    </entry>
+    <entry id="3" name="ko:K10934" type="ortholog">
+        <graphics name="K10934" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="665" width="45" height="17"/>
+    </entry>
+    <entry id="4" name="ko:K10933" type="ortholog">
+        <graphics name="K10933" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="198" y="645" width="45" height="17"/>
+    </entry>
+    <entry id="5" name="ko:K10932" type="ortholog">
+        <graphics name="K10932" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="645" width="45" height="17"/>
+    </entry>
+    <entry id="6" name="ko:K10931" type="ortholog">
+        <graphics name="K10931" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="198" y="625" width="45" height="17"/>
+    </entry>
+    <entry id="7" name="ko:K10930" type="ortholog">
+        <graphics name="K10930" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="625" width="45" height="17"/>
+    </entry>
+    <entry id="8" name="ec:3.4.24.25" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.4.24.25">
+        <graphics name="3.4.24.25" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="708" width="45" height="17"/>
+    </entry>
+    <entry id="9" name="ko:K10952" type="ortholog">
+        <graphics name="K10952" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="482" width="45" height="17"/>
+    </entry>
+    <entry id="10" name="vch:VC1784 vco:VC0395_A1381" type="other">
+        <graphics name="VC1784..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="367" width="45" height="17"/>
+    </entry>
+    <entry id="11" name="cpd:C00014" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00014">
+        <graphics name="C00014" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="496" y="180" width="8" height="8"/>
+    </entry>
+    <entry id="12" name="cpd:C00080" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00080">
+        <graphics name="C00080" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="524" y="152" width="8" height="8"/>
+    </entry>
+    <entry id="13" name="cpd:C00238" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00238">
+        <graphics name="C00238" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="806" y="352" width="8" height="8"/>
+    </entry>
+    <entry id="14" name="cpd:C00238" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00238">
+        <graphics name="C00238" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="798" y="389" width="8" height="8"/>
+    </entry>
+    <entry id="15" name="cpd:C01330" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C01330">
+        <graphics name="C01330" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="798" y="402" width="8" height="8"/>
+    </entry>
+    <entry id="16" name="cpd:C00698" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00698">
+        <graphics name="C00698" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="798" y="415" width="8" height="8"/>
+    </entry>
+    <entry id="17" name="cpd:C00698" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00698">
+        <graphics name="C00698" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="248" y="440" width="8" height="8"/>
+    </entry>
+    <entry id="18" name="cpd:C04911" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C04911">
+        <graphics name="C04911" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="306" y="323" width="8" height="8"/>
+    </entry>
+    <entry id="19" name="path:map04530" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map04530.html">
+        <graphics name="Tight junction" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="633" y="680" width="98" height="26"/>
+    </entry>
+    <entry id="20" name="ko:K10954" type="ortholog">
+        <graphics name="K10954" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="403" y="573" width="45" height="17"/>
+    </entry>
+    <entry id="21" name="ko:K10953" type="ortholog">
+        <graphics name="K10953" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="403" y="526" width="45" height="17"/>
+    </entry>
+    <entry id="22" name="ec:2.4.2.36" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.4.2.36">
+        <graphics name="2.4.2.36" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="518" y="286" width="45" height="17"/>
+    </entry>
+    <entry id="23" name="ec:2.4.2.36" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.4.2.36">
+        <graphics name="2.4.2.36" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="443" y="286" width="45" height="17"/>
+    </entry>
+    <entry id="24" name="ko:K10929" type="ortholog">
+        <graphics name="K10929" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="443" y="323" width="45" height="17"/>
+    </entry>
+    <entry id="25" name="ko:K10948" type="ortholog">
+        <graphics name="K10948" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="443" y="151" width="45" height="17"/>
+    </entry>
+    <entry id="26" name="path:map05111" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map05111.html">
+        <graphics name="Vibrio cholerae pathogenic cycle" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="95" y="117" width="119" height="36"/>
+    </entry>
+    <entry id="27" name="cpd:C00165" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00165">
+        <graphics name="C00165" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="464" y="635" width="8" height="8"/>
+    </entry>
+    <entry id="29" name="cpd:C01245" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C01245">
+        <graphics name="C01245" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="464" y="599" width="8" height="8"/>
+    </entry>
+    <entry id="30" name="ko:K07937" type="ortholog">
+        <graphics name="K07937" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="597" y="244" width="45" height="17"/>
+    </entry>
+    <entry id="31" name="path:map03090" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map03090.html">
+        <graphics name="Type II secretion system" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="246" y="250" width="149" height="30"/>
+    </entry>
+    <entry id="32" name="ec:3.6.3.14" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.6.3.14">
+        <graphics name="3.6.3.14" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="523" y="115" width="45" height="17"/>
+    </entry>
+    <entry id="33" name="ko:K10948" type="ortholog">
+        <graphics name="K10948" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="151" width="45" height="17"/>
+    </entry>
+    <entry id="34" name="ec:1.8.4.-" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+1.8.4.-">
+        <graphics name="1.8.4.-" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="541" y="222" width="45" height="17"/>
+    </entry>
+    <entry id="35" name="ko:K10929" type="ortholog">
+        <graphics name="K10929" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="323" width="45" height="17"/>
+    </entry>
+    <entry id="36" name="ko:K05031" type="ortholog">
+        <graphics name="K05031" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="306" y="440" width="45" height="17"/>
+    </entry>
+    <entry id="37" name="ec:2.4.2.36" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.4.2.36">
+        <graphics name="2.4.2.36" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="306" width="45" height="17"/>
+    </entry>
+    <entry id="38" name="ko:K10954" type="ortholog">
+        <graphics name="K10954" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="573" width="45" height="17"/>
+    </entry>
+    <entry id="39" name="ko:K06098" type="ortholog">
+        <graphics name="K06098" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="658" y="647" width="45" height="17"/>
+    </entry>
+    <entry id="40" name="ko:K05701" type="ortholog">
+        <graphics name="K05701" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="609" y="647" width="45" height="17"/>
+    </entry>
+    <entry id="41" name="cpd:C00575" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00575">
+        <graphics name="C00575" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="632" y="375" width="8" height="8"/>
+    </entry>
+    <entry id="42" name="path:map00190" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map00190.html">
+        <graphics name="Oxidative phosphorylation" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="632" y="115" width="153" height="26"/>
+    </entry>
+    <entry id="43" name="ko:K04632" type="ortholog">
+        <graphics name="K04632" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="667" y="286" width="45" height="17"/>
+    </entry>
+    <entry id="44" name="ko:K04926" type="ortholog">
+        <graphics name="K04926" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="745" y="352" width="45" height="17"/>
+    </entry>
+    <entry id="45" name="ec:2.7.11.13" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.11.13">
+        <graphics name="2.7.11.13" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="524" y="620" width="45" height="17"/>
+    </entry>
+    <entry id="46" name="ko:K10951" type="ortholog">
+        <graphics name="K10951" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="745" y="402" width="45" height="17"/>
+    </entry>
+    <entry id="47" name="ec:3.1.4.11" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.1.4.11">
+        <graphics name="3.1.4.11" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="403" y="620" width="45" height="17"/>
+    </entry>
+    <entry id="48" name="ec:2.7.11.11" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.11.11">
+        <graphics name="2.7.11.11" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="516" y="394" width="45" height="17"/>
+    </entry>
+    <entry id="49" name="ko:K10953" type="ortholog">
+        <graphics name="K10953" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="526" width="45" height="17"/>
+    </entry>
+    <entry id="50" name="ko:K07342 ko:K09481 ko:K10956" type="ortholog">
+        <graphics name="K07342..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="584" y="286" width="45" height="17"/>
+    </entry>
+    <entry id="51" name="ko:K05692 ko:K10354" type="ortholog">
+        <graphics name="K05692..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="641" y="573" width="45" height="17"/>
+    </entry>
+    <entry id="52" name="ec:5.3.4.1" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+5.3.4.1">
+        <graphics name="5.3.4.1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="481" y="244" width="45" height="17"/>
+    </entry>
+    <entry id="54" name="ec:4.6.1.1" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+4.6.1.1">
+        <graphics name="4.6.1.1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="745" y="286" width="45" height="17"/>
+    </entry>
+    <entry id="55" name="cpd:C00698" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00698">
+        <graphics name="C00698" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="496" y="152" width="8" height="8"/>
+    </entry>
+    <entry id="56" name="ko:K10949" type="ortholog">
+        <graphics name="K10949" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="381" y="244" width="45" height="17"/>
+    </entry>
+    <entry id="57" name="path:map05110" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map05110">
+        <graphics name="TITLE:Vibrio cholerae infection" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="168" y="40" width="240" height="25"/>
+    </entry>
+    <entry id="58" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="150" y="315" width="65" height="54"/>
+        <component id="35"/>
+        <component id="37"/>
+    </entry>
+    <relation entry1="25" entry2="55" type="PCrel"/>
+    <relation entry1="32" entry2="12" type="PCrel"/>
+    <relation entry1="44" entry2="13" type="PCrel"/>
+    <relation entry1="46" entry2="14" type="PCrel"/>
+    <relation entry1="46" entry2="15" type="PCrel"/>
+    <relation entry1="46" entry2="16" type="PCrel"/>
+    <relation entry1="36" entry2="17" type="PCrel"/>
+    <relation entry1="46" entry2="48" type="PPrel">
+        <subtype name="compound" value="41"/>
+    </relation>
+    <relation entry1="44" entry2="48" type="PPrel">
+        <subtype name="compound" value="41"/>
+    </relation>
+    <relation entry1="48" entry2="54" type="PPrel">
+        <subtype name="compound" value="41"/>
+    </relation>
+    <relation entry1="44" entry2="46" type="PPrel">
+        <subtype name="compound" value="41"/>
+    </relation>
+    <relation entry1="46" entry2="54" type="PPrel">
+        <subtype name="compound" value="41"/>
+    </relation>
+    <relation entry1="44" entry2="54" type="PPrel">
+        <subtype name="compound" value="41"/>
+    </relation>
+    <relation entry1="45" entry2="47" type="PPrel">
+        <subtype name="compound" value="27"/>
+    </relation>
+    <relation entry1="45" entry2="47" type="PPrel">
+        <subtype name="compound" value="29"/>
+    </relation>
+    <relation entry1="25" entry2="32" type="PPrel">
+        <subtype name="indirect" value="..>"/>
+    </relation>
+    <relation entry1="34" entry2="52" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="30" entry2="22" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="22" entry2="43" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="22" entry2="50" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="43" entry2="54" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="48" entry2="36" type="PPrel">
+        <subtype name="activation" value="-->"/>
+        <subtype name="phosphorylation" value="+p"/>
+    </relation>
+    <relation entry1="45" entry2="51" type="PPrel">
+        <subtype name="activation" value="-->"/>
+        <subtype name="phosphorylation" value="+p"/>
+    </relation>
+    <relation entry1="20" entry2="47" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="8" entry2="1" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="21" entry2="51" type="PPrel">
+        <subtype name="inhibition" value="--|"/>
+    </relation>
+    <relation entry1="23" entry2="56" type="PPrel">
+        <subtype name="binding/association" value="---"/>
+    </relation>
+    <relation entry1="23" entry2="52" type="PPrel">
+        <subtype name="binding/association" value="---"/>
+    </relation>
+    <relation entry1="35" entry2="18" type="PCrel"/>
+    <relation entry1="24" entry2="18" type="PCrel"/>
+    <relation entry1="22" entry2="52" type="PPrel">
+        <subtype name="dissociation" value="-+-"/>
+    </relation>
+</pathway>

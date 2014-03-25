@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Aug 25 2008 02:21:47 +0900 (JST) -->
+<pathway name="path:map00907pl" org="map" number="00907pl"
+         image="http://www.genome.jp/kegg/pathway/map/map00907pl.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map00907pl">
+    <entry id="1" name="tr:Q9LWA6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?tr+Q9LWA6">
+        <graphics name="Q9LWA6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="900" y="421" width="45" height="17"/>
+    </entry>
+    <entry id="2" name="tr:Q9LWA6" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?tr+Q9LWA6">
+        <graphics name="Q9LWA6" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1072" y="391" width="45" height="17"/>
+    </entry>
+    <entry id="3" name="up:CCS_CITSI" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+CCS_CITSI">
+        <graphics name="CCS_CITSI" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1139" y="218" width="45" height="17"/>
+    </entry>
+    <entry id="4" name="up:CCS_CITSI" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?up+CCS_CITSI">
+        <graphics name="CCS_CITSI" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1028" y="218" width="45" height="17"/>
+    </entry>
+    <entry id="5" name="cpd:C08585" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08585">
+        <graphics name="C08585" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="1139" y="173" width="8" height="8"/>
+    </entry>
+    <entry id="6" name="cpd:C08584" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08584">
+        <graphics name="C08584" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="1028" y="173" width="8" height="8"/>
+    </entry>
+    <entry id="7" name="tr:Q8W3P8" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?tr+Q8W3P8">
+        <graphics name="Q8W3P8" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="425" y="391" width="45" height="17"/>
+    </entry>
+    <entry id="8" name="ath:AT2G29090" type="other">
+        <graphics name="CYP707A2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="424" y="445" width="45" height="17"/>
+    </entry>
+    <entry id="9" name="ath:AT2G27150" type="other">
+        <graphics name="AAO3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="560" y="391" width="45" height="17"/>
+    </entry>
+    <entry id="10" name="ath:AT1G52340" type="other">
+        <graphics name="ABA2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="696" y="391" width="45" height="17"/>
+    </entry>
+    <entry id="11" name="ath:AT1G30100" type="other">
+        <graphics name="NCED5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="830" y="445" width="45" height="17"/>
+    </entry>
+    <entry id="12" name="ath:AT1G30100" type="other">
+        <graphics name="NCED5" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="830" y="391" width="45" height="17"/>
+    </entry>
+    <entry id="13" name="ath:AT1G08550" type="other">
+        <graphics name="NPQ1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1084" y="316" width="45" height="17"/>
+    </entry>
+    <entry id="14" name="ath:AT1G08550" type="other">
+        <graphics name="NPQ1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="972" y="316" width="45" height="17"/>
+    </entry>
+    <entry id="15" name="ath:AT5G67030" type="other">
+        <graphics name="ABA1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="1085" y="264" width="45" height="17"/>
+    </entry>
+    <entry id="16" name="ath:AT5G67030" type="other">
+        <graphics name="ABA1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="972" y="264" width="45" height="17"/>
+    </entry>
+    <entry id="17" name="ath:AT3G53130" type="other">
+        <graphics name="LUT1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="803" y="151" width="45" height="17"/>
+    </entry>
+    <entry id="18" name="ath:AT3G10230 cme:CMK050C" type="other">
+        <graphics name="LYC..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="598" y="235" width="45" height="17"/>
+    </entry>
+    <entry id="19" name="ath:AT3G53130" type="other">
+        <graphics name="LUT1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="884" y="189" width="45" height="17"/>
+    </entry>
+    <entry id="20" name="ath:AT4G25700" type="other">
+        <graphics name="BETA-OHASE_1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="883" y="151" width="45" height="17"/>
+    </entry>
+    <entry id="21" name="ath:AT4G25700 cme:CMV041C" type="other">
+        <graphics name="BETA-OHASE_1..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="858" y="289" width="45" height="17"/>
+    </entry>
+    <entry id="22" name="ath:AT4G25700" type="other">
+        <graphics name="BETA-OHASE_1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="802" y="189" width="45" height="17"/>
+    </entry>
+    <entry id="23" name="ath:AT4G25700 cme:CMV041C" type="other">
+        <graphics name="BETA-OHASE_1..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="748" y="289" width="45" height="17"/>
+    </entry>
+    <entry id="24" name="ath:AT3G10230 cme:CMK050C" type="other">
+        <graphics name="LYC..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="642" y="289" width="45" height="17"/>
+    </entry>
+    <entry id="25" name="ath:AT3G10230" type="other">
+        <graphics name="LYC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="718" y="189" width="45" height="17"/>
+    </entry>
+    <entry id="26" name="ath:AT5G57030" type="other">
+        <graphics name="LUT2" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="633" y="189" width="45" height="17"/>
+    </entry>
+    <entry id="27" name="ath:AT1G06820 cme:CMN268C" type="other">
+        <graphics name="CRTISO..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="538" y="199" width="45" height="17"/>
+    </entry>
+    <entry id="28" name="ath:AT1G06820 cme:CMN268C" type="other">
+        <graphics name="CRTISO..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="419" y="199" width="45" height="17"/>
+    </entry>
+    <entry id="29" name="ath:AT3G04870 cme:CMT061C" type="other">
+        <graphics name="ZDS..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="538" y="178" width="45" height="17"/>
+    </entry>
+    <entry id="30" name="ath:AT3G04870 cme:CMT061C" type="other">
+        <graphics name="ZDS..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="419" y="178" width="45" height="17"/>
+    </entry>
+    <entry id="31" name="ath:AT4G14210 cme:CMK151C" type="other">
+        <graphics name="PDS3..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="316" y="189" width="45" height="17"/>
+    </entry>
+    <entry id="32" name="ath:AT4G14210 cme:CMK151C" type="other">
+        <graphics name="PDS3..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="217" y="189" width="45" height="17"/>
+    </entry>
+    <entry id="33" name="ath:AT5G17230 cme:CMM166C" type="other">
+        <graphics name="PSY..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="112" y="189" width="45" height="17"/>
+    </entry>
+    <entry id="34" name="cpd:C00353" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00353">
+        <graphics name="C00353" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="174" y="444" width="8" height="8"/>
+    </entry>
+    <entry id="35" name="cpd:C09707" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C09707">
+        <graphics name="C09707" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="273" y="444" width="8" height="8"/>
+    </entry>
+    <entry id="36" name="cpd:C15514" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15514">
+        <graphics name="C15514" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="367" y="444" width="8" height="8"/>
+    </entry>
+    <entry id="37" name="cpd:C15970" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15970">
+        <graphics name="C15970" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="367" y="391" width="8" height="8"/>
+    </entry>
+    <entry id="38" name="cpd:C06082" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C06082">
+        <graphics name="C06082" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="481" y="391" width="8" height="8"/>
+    </entry>
+    <entry id="39" name="cpd:C13456" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C13456">
+        <graphics name="C13456" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="555" y="345" width="8" height="8"/>
+    </entry>
+    <entry id="40" name="cpd:C13454" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C13454">
+        <graphics name="C13454" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="625" y="444" width="8" height="8"/>
+    </entry>
+    <entry id="41" name="cpd:C13455" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C13455">
+        <graphics name="C13455" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="625" y="391" width="8" height="8"/>
+    </entry>
+    <entry id="42" name="cpd:C13453" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C13453">
+        <graphics name="C13453" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="761" y="391" width="8" height="8"/>
+    </entry>
+    <entry id="43" name="cpd:C13433" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C13433">
+        <graphics name="C13433" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="900" y="444" width="8" height="8"/>
+    </entry>
+    <entry id="44" name="cpd:C13431" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C13431">
+        <graphics name="C13431" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="900" y="391" width="8" height="8"/>
+    </entry>
+    <entry id="45" name="cpd:C08606" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08606">
+        <graphics name="C08606" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="996" y="391" width="8" height="8"/>
+    </entry>
+    <entry id="46" name="cpd:C08614" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08614">
+        <graphics name="C08614" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="1139" y="289" width="8" height="8"/>
+    </entry>
+    <entry id="47" name="cpd:C08579" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08579">
+        <graphics name="C08579" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="1028" y="289" width="8" height="8"/>
+    </entry>
+    <entry id="48" name="cpd:C06098" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C06098">
+        <graphics name="C06098" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="917" y="289" width="8" height="8"/>
+    </entry>
+    <entry id="49" name="cpd:C08591" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08591">
+        <graphics name="C08591" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="809" y="289" width="8" height="8"/>
+    </entry>
+    <entry id="50" name="cpd:C15981" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15981">
+        <graphics name="C15981" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="849" y="151" width="8" height="8"/>
+    </entry>
+    <entry id="51" name="cpd:C08601" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08601">
+        <graphics name="C08601" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="932" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="52" name="cpd:C08590" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08590">
+        <graphics name="C08590" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="849" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="53" name="cpd:C05433" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05433">
+        <graphics name="C05433" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="765" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="54" name="cpd:C08586" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08586">
+        <graphics name="C08586" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="680" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="55" name="cpd:C02094" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C02094">
+        <graphics name="C02094" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="700" y="289" width="8" height="8"/>
+    </entry>
+    <entry id="56" name="cpd:C05435" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05435">
+        <graphics name="C05435" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="597" y="289" width="8" height="8"/>
+    </entry>
+    <entry id="57" name="cpd:C05432" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05432">
+        <graphics name="C05432" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="597" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="58" name="cpd:C05431" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05431">
+        <graphics name="C05431" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="481" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="59" name="cpd:C05430" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05430">
+        <graphics name="C05430" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="367" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="60" name="cpd:C05414" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05414">
+        <graphics name="C05414" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="273" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="61" name="cpd:C05413 cpd:C05421" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05413+C05421">
+        <graphics name="C05413..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="174" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="62" name="cpd:C00353" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00353">
+        <graphics name="C00353" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="75" y="188" width="8" height="8"/>
+    </entry>
+    <entry id="63" name="path:map00100" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map00100.html">
+        <graphics name="Biosynthesis of steroids" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="116" y="121" width="134" height="25"/>
+    </entry>
+    <entry id="64" name="path:map00907pl" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map00907pl">
+        <graphics name="TITLE:" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="179" y="54" width="278" height="28"/>
+    </entry>
+</pathway>

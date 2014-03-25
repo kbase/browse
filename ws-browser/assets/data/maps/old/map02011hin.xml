@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Jul 30 2008 19:30:24 +0900 (JST) -->
+<pathway name="path:map02011hin" org="map" number="02011hin"
+         image="http://www.genome.jp/kegg/pathway/map/map02011hin.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map02011hin">
+    <entry id="1" name="cpd:C00023" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00023">
+        <graphics name="C00023" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="370" y="170" width="8" height="8"/>
+    </entry>
+    <entry id="2" name="cpd:C00038" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00038">
+        <graphics name="C00038" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="370" y="361" width="8" height="8"/>
+    </entry>
+    <entry id="3" name="hin:HI1470" type="other">
+        <graphics name="HI1470" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="547" y="169" width="46" height="17"/>
+    </entry>
+    <entry id="4" name="hin:HI1471" type="other">
+        <graphics name="HI1471" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="501" y="169" width="45" height="17"/>
+    </entry>
+    <entry id="5" name="hin:HI1472" type="other">
+        <graphics name="HI1472" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="426" y="170" width="45" height="16"/>
+    </entry>
+    <entry id="6" name="hin:HI0119" type="other">
+        <graphics name="znuA, yebL" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="426" y="361" width="45" height="17"/>
+    </entry>
+    <entry id="7" name="cpd:C00009" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00009">
+        <graphics name="C00009" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="86" y="562" width="8" height="8"/>
+    </entry>
+    <entry id="8" name="cpd:C00098" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00098">
+        <graphics name="C00098" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="86" y="512" width="8" height="8"/>
+    </entry>
+    <entry id="9" name="cpd:C00062" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00062">
+        <graphics name="C00062" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="86" y="363" width="8" height="8"/>
+    </entry>
+    <entry id="10" name="cpd:C00034" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00034">
+        <graphics name="C00034" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="369" y="317" width="8" height="8"/>
+    </entry>
+    <entry id="11" name="cpd:C00175" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00175">
+        <graphics name="C00175" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="443" y="276" width="8" height="8"/>
+    </entry>
+    <entry id="12" name="cpd:C00023" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00023">
+        <graphics name="C00023" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="370" y="137" width="8" height="8"/>
+    </entry>
+    <entry id="13" name="cpd:C14819" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C14819">
+        <graphics name="C14819" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="370" y="101" width="8" height="8"/>
+    </entry>
+    <entry id="14" name="cpd:C06232" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C06232">
+        <graphics name="C06232" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="370" y="237" width="8" height="8"/>
+    </entry>
+    <entry id="15" name="cpd:C00181" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00181">
+        <graphics name="C00181" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="86" y="181" width="8" height="8"/>
+    </entry>
+    <entry id="16" name="cpd:C00124" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00124">
+        <graphics name="C00124" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="86" y="141" width="8" height="8"/>
+    </entry>
+    <entry id="17" name="path:map02011" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map02011">
+        <graphics name="TITLE:" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="289" y="37" width="362" height="26"/>
+    </entry>
+    <entry id="18" name="hin:HI1021" type="other">
+        <graphics name="HI1021" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="266" width="46" height="17"/>
+    </entry>
+    <entry id="19" name="hin:HI1020" type="other">
+        <graphics name="thiP, sfuB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="266" width="45" height="17"/>
+    </entry>
+    <entry id="20" name="hin:HI1019" type="other">
+        <graphics name="tbpA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="266" width="45" height="17"/>
+    </entry>
+    <entry id="21" name="hin:HI1380" type="other">
+        <graphics name="pstB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="562" width="46" height="17"/>
+    </entry>
+    <entry id="22" name="hin:HI1381" type="other">
+        <graphics name="pstA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="570" width="45" height="17"/>
+    </entry>
+    <entry id="23" name="hin:HI1382" type="other">
+        <graphics name="pstC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="554" width="45" height="16"/>
+    </entry>
+    <entry id="24" name="hin:HI1383m" type="other">
+        <graphics name="pstS" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="562" width="45" height="17"/>
+    </entry>
+    <entry id="25" name="hin:HI1347" type="other">
+        <graphics name="potA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="261" y="221" width="46" height="17"/>
+    </entry>
+    <entry id="26" name="hin:HI1346" type="other">
+        <graphics name="potB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="215" y="229" width="45" height="17"/>
+    </entry>
+    <entry id="27" name="hin:HI1345" type="other">
+        <graphics name="potC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="215" y="213" width="45" height="16"/>
+    </entry>
+    <entry id="28" name="hin:HI1344" type="other">
+        <graphics name="potD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="212" width="45" height="17"/>
+    </entry>
+    <entry id="29" name="hin:HI1120" type="other">
+        <graphics name="oppF" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="520" width="46" height="17"/>
+    </entry>
+    <entry id="30" name="hin:HI1121" type="other">
+        <graphics name="oppD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="503" width="46" height="17"/>
+    </entry>
+    <entry id="31" name="hin:HI1122" type="other">
+        <graphics name="oppC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="520" width="45" height="17"/>
+    </entry>
+    <entry id="32" name="hin:HI1123" type="other">
+        <graphics name="oppB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="503" width="45" height="17"/>
+    </entry>
+    <entry id="33" name="hin:HI1124" type="other">
+        <graphics name="oppA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="512" width="45" height="17"/>
+    </entry>
+    <entry id="34" name="hin:HI1184" type="other">
+        <graphics name="dppF" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="469" width="46" height="17"/>
+    </entry>
+    <entry id="35" name="hin:HI1185" type="other">
+        <graphics name="dppD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="452" width="46" height="17"/>
+    </entry>
+    <entry id="36" name="hin:HI1186" type="other">
+        <graphics name="dppC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="469" width="45" height="17"/>
+    </entry>
+    <entry id="37" name="hin:HI1187" type="other">
+        <graphics name="dppB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="452" width="45" height="17"/>
+    </entry>
+    <entry id="38" name="hin:HI1642" type="other">
+        <graphics name="sapF" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="418" width="46" height="17"/>
+    </entry>
+    <entry id="39" name="hin:HI1641" type="other">
+        <graphics name="sapD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="401" width="46" height="17"/>
+    </entry>
+    <entry id="40" name="hin:HI1640" type="other">
+        <graphics name="sapC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="418" width="45" height="17"/>
+    </entry>
+    <entry id="41" name="hin:HI1639" type="other">
+        <graphics name="sapB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="401" width="45" height="17"/>
+    </entry>
+    <entry id="42" name="hin:HI1638" type="other">
+        <graphics name="sapA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="409" width="45" height="17"/>
+    </entry>
+    <entry id="43" name="hin:HI1180" type="other">
+        <graphics name="artP" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="362" width="46" height="17"/>
+    </entry>
+    <entry id="44" name="hin:HI1178" type="other">
+        <graphics name="artQ" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="370" width="45" height="17"/>
+    </entry>
+    <entry id="45" name="hin:HI1177" type="other">
+        <graphics name="artM" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="354" width="45" height="16"/>
+    </entry>
+    <entry id="46" name="hin:HI1179" type="other">
+        <graphics name="artI" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="362" width="45" height="17"/>
+    </entry>
+    <entry id="47" name="hin:HI1078" type="other">
+        <graphics name="HI1078" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="323" width="46" height="17"/>
+    </entry>
+    <entry id="48" name="hin:HI1079m" type="other">
+        <graphics name="HI1079m" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="323" width="45" height="17"/>
+    </entry>
+    <entry id="49" name="hin:HI1080" type="other">
+        <graphics name="HI1080" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="323" width="45" height="17"/>
+    </entry>
+    <entry id="50" name="hin:HI1110" type="other">
+        <graphics name="xylG" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="180" width="46" height="17"/>
+    </entry>
+    <entry id="51" name="hin:HI1109" type="other">
+        <graphics name="xylH" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="180" width="45" height="17"/>
+    </entry>
+    <entry id="52" name="hin:HI1111" type="other">
+        <graphics name="xylF" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="180" width="45" height="17"/>
+    </entry>
+    <entry id="53" name="hin:HI0823" type="other">
+        <graphics name="mglA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="141" width="46" height="17"/>
+    </entry>
+    <entry id="54" name="hin:HI0824" type="other">
+        <graphics name="mglC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="141" width="45" height="17"/>
+    </entry>
+    <entry id="55" name="hin:HI0822" type="other">
+        <graphics name="mglB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="141" width="45" height="17"/>
+    </entry>
+    <entry id="56" name="hin:HI0501" type="other">
+        <graphics name="rbsD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="109" width="45" height="17"/>
+    </entry>
+    <entry id="57" name="hin:HI0502" type="other">
+        <graphics name="rbsA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="101" width="46" height="17"/>
+    </entry>
+    <entry id="58" name="hin:HI0503" type="other">
+        <graphics name="rbsC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="93" width="45" height="16"/>
+    </entry>
+    <entry id="59" name="hin:HI1085" type="other">
+        <graphics name="HI1085" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="426" y="436" width="45" height="17"/>
+    </entry>
+    <entry id="60" name="cpd:C00315 cpd:C00134" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00315+C00134">
+        <graphics name="C00315..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="85" y="221" width="8" height="8"/>
+    </entry>
+    <entry id="61" name="cpd:C00012" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00012">
+        <graphics name="C00012" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="86" y="410" width="8" height="8"/>
+    </entry>
+    <entry id="62" name="cpd:C00121" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00121">
+        <graphics name="C00121" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="86" y="101" width="8" height="8"/>
+    </entry>
+    <entry id="63" name="cpd:C06232" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C06232">
+        <graphics name="C06232" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="370" y="203" width="8" height="8"/>
+    </entry>
+    <entry id="64" name="cpd:C00302" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00302">
+        <graphics name="C00302" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="86" y="324" width="8" height="8"/>
+    </entry>
+    <entry id="65" name="hin:HI0504" type="other">
+        <graphics name="rbsB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="101" width="45" height="17"/>
+    </entry>
+    <entry id="66" name="hin:HI0131" type="other">
+        <graphics name="afuA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="426" y="100" width="45" height="17"/>
+    </entry>
+    <entry id="67" name="hin:HI0129" type="other">
+        <graphics name="afuB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="499" y="100" width="45" height="17"/>
+    </entry>
+    <entry id="68" name="hin:HI0126" type="other">
+        <graphics name="fbpC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="545" y="100" width="46" height="17"/>
+    </entry>
+    <entry id="69" name="hin:HI0097" type="other">
+        <graphics name="hitA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="426" y="136" width="45" height="17"/>
+    </entry>
+    <entry id="70" name="hin:HI0098" type="other">
+        <graphics name="hitB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="499" y="136" width="45" height="17"/>
+    </entry>
+    <entry id="71" name="hin:HI0099" type="other">
+        <graphics name="hitC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="545" y="136" width="46" height="17"/>
+    </entry>
+    <entry id="72" name="hin:HI0359" type="other">
+        <graphics name="yfeD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="499" y="310" width="45" height="16"/>
+    </entry>
+    <entry id="73" name="hin:HI0360" type="other">
+        <graphics name="yfeC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="499" y="326" width="45" height="17"/>
+    </entry>
+    <entry id="74" name="hin:HI0361" type="other">
+        <graphics name="yfeB" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="545" y="318" width="46" height="17"/>
+    </entry>
+    <entry id="75" name="hin:HI0407" type="other">
+        <graphics name="HI0407" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="499" y="361" width="45" height="17"/>
+    </entry>
+    <entry id="76" name="hin:HI0408" type="other">
+        <graphics name="yebM" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="545" y="361" width="46" height="17"/>
+    </entry>
+    <entry id="77" name="hin:HI1469" type="other">
+        <graphics name="HI1469" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="426" y="203" width="45" height="17"/>
+    </entry>
+    <entry id="78" name="hin:HI1475" type="other">
+        <graphics name="HI1475" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="500" y="203" width="45" height="17"/>
+    </entry>
+    <entry id="79" name="hin:HI1474" type="other">
+        <graphics name="HI1474" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="546" y="203" width="46" height="17"/>
+    </entry>
+    <entry id="80" name="hin:HI1693" type="other">
+        <graphics name="modA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="426" y="237" width="45" height="17"/>
+    </entry>
+    <entry id="81" name="hin:HI1692" type="other">
+        <graphics name="modB, chlJ" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="500" y="237" width="45" height="17"/>
+    </entry>
+    <entry id="82" name="hin:HI1691" type="other">
+        <graphics name="modC" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="546" y="237" width="46" height="17"/>
+    </entry>
+    <entry id="83" name="hin:HI0357" type="other">
+        <graphics name="HI0357" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="296" width="45" height="17"/>
+    </entry>
+    <entry id="84" name="hin:HI0355" type="other">
+        <graphics name="HI0355" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="216" y="295" width="45" height="17"/>
+    </entry>
+    <entry id="85" name="hin:HI0354" type="other">
+        <graphics name="HI0354" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="262" y="295" width="46" height="17"/>
+    </entry>
+    <entry id="86" name="hin:HI1086" type="other">
+        <graphics name="HI1086" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="499" y="436" width="45" height="17"/>
+    </entry>
+    <entry id="87" name="hin:HI1087" type="other">
+        <graphics name="HI1087" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="545" y="436" width="46" height="17"/>
+    </entry>
+    <entry id="88" name="hin:HI1619" type="other">
+        <graphics name="HI1619" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="499" y="275" width="45" height="17"/>
+    </entry>
+    <entry id="89" name="hin:HI1618" type="other">
+        <graphics name="HI1618" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="545" y="275" width="46" height="17"/>
+    </entry>
+    <entry id="90" name="hin:HI1621" type="other">
+        <graphics name="HI1621" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="604" y="275" width="46" height="17"/>
+    </entry>
+    <entry id="91" name="hin:HI0498" type="other">
+        <graphics name="potD" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="229" width="45" height="17"/>
+    </entry>
+    <entry id="92" name="hin:HI0853" type="other">
+        <graphics name="dppA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="452" width="45" height="17"/>
+    </entry>
+    <entry id="93" name="hin:HI0213" type="other">
+        <graphics name="HI0213" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="469" width="45" height="17"/>
+    </entry>
+    <entry id="94" name="hin:HI0362" type="other">
+        <graphics name="yfeA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="426" y="318" width="45" height="17"/>
+    </entry>
+    <entry id="95" name="cpd:C00378" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00378">
+        <graphics name="C00378" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="86" y="267" width="8" height="8"/>
+    </entry>
+    <entry id="96" name="cpd:C00107" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00107">
+        <graphics name="C00107" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="86" y="461" width="8" height="8"/>
+    </entry>
+    <entry id="97" name="hin:HI0620" type="other">
+        <graphics name="hlpA" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="426" y="400" width="45" height="17"/>
+    </entry>
+    <entry id="98" name="hin:HI0621" type="other">
+        <graphics name="metN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="545" y="400" width="46" height="17"/>
+    </entry>
+    <entry id="99" name="hin:HI0620.1" type="other">
+        <graphics name="HI0620.1" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="499" y="400" width="45" height="17"/>
+    </entry>
+    <entry id="100" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="101" width="111" height="53"/>
+        <component id="56"/>
+        <component id="57"/>
+        <component id="58"/>
+    </entry>
+    <entry id="101" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="141" width="111" height="37"/>
+        <component id="53"/>
+        <component id="54"/>
+    </entry>
+    <entry id="102" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="180" width="111" height="37"/>
+        <component id="50"/>
+        <component id="51"/>
+    </entry>
+    <entry id="103" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="221" width="65" height="54"/>
+        <component id="28"/>
+        <component id="91"/>
+    </entry>
+    <entry id="104" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="238" y="221" width="111" height="53"/>
+        <component id="25"/>
+        <component id="26"/>
+        <component id="27"/>
+    </entry>
+    <entry id="105" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="266" width="111" height="37"/>
+        <component id="18"/>
+        <component id="19"/>
+    </entry>
+    <entry id="106" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="295" width="111" height="37"/>
+        <component id="84"/>
+        <component id="85"/>
+    </entry>
+    <entry id="107" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="323" width="111" height="37"/>
+        <component id="47"/>
+        <component id="48"/>
+    </entry>
+    <entry id="108" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="362" width="111" height="53"/>
+        <component id="43"/>
+        <component id="44"/>
+        <component id="45"/>
+    </entry>
+    <entry id="109" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="410" width="111" height="54"/>
+        <component id="38"/>
+        <component id="39"/>
+        <component id="40"/>
+        <component id="41"/>
+    </entry>
+    <entry id="110" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="461" width="111" height="54"/>
+        <component id="34"/>
+        <component id="35"/>
+        <component id="36"/>
+        <component id="37"/>
+    </entry>
+    <entry id="111" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="142" y="461" width="65" height="54"/>
+        <component id="92"/>
+        <component id="93"/>
+    </entry>
+    <entry id="112" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="512" width="111" height="54"/>
+        <component id="29"/>
+        <component id="30"/>
+        <component id="31"/>
+        <component id="32"/>
+    </entry>
+    <entry id="113" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="562" width="111" height="53"/>
+        <component id="21"/>
+        <component id="22"/>
+        <component id="23"/>
+    </entry>
+    <entry id="114" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="522" y="100" width="111" height="37"/>
+        <component id="67"/>
+        <component id="68"/>
+    </entry>
+    <entry id="115" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="522" y="136" width="111" height="37"/>
+        <component id="70"/>
+        <component id="71"/>
+    </entry>
+    <entry id="116" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="524" y="169" width="111" height="37"/>
+        <component id="3"/>
+        <component id="4"/>
+    </entry>
+    <entry id="117" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="523" y="203" width="111" height="37"/>
+        <component id="78"/>
+        <component id="79"/>
+    </entry>
+    <entry id="118" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="523" y="237" width="111" height="37"/>
+        <component id="81"/>
+        <component id="82"/>
+    </entry>
+    <entry id="119" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="522" y="275" width="111" height="37"/>
+        <component id="88"/>
+        <component id="89"/>
+    </entry>
+    <entry id="120" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="522" y="318" width="111" height="53"/>
+        <component id="72"/>
+        <component id="73"/>
+        <component id="74"/>
+    </entry>
+    <entry id="121" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="522" y="361" width="111" height="37"/>
+        <component id="75"/>
+        <component id="76"/>
+    </entry>
+    <entry id="122" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="522" y="400" width="111" height="37"/>
+        <component id="98"/>
+        <component id="99"/>
+    </entry>
+    <entry id="123" name="undefined" type="group">
+        <graphics fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="522" y="436" width="111" height="37"/>
+        <component id="86"/>
+        <component id="87"/>
+    </entry>
+    <relation entry1="65" entry2="100" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="55" entry2="101" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="52" entry2="102" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="103" entry2="104" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="20" entry2="105" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="83" entry2="106" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="49" entry2="107" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="46" entry2="108" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="42" entry2="109" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="111" entry2="110" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="33" entry2="112" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="24" entry2="113" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="66" entry2="114" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="69" entry2="115" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="5" entry2="116" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="77" entry2="117" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="80" entry2="118" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="94" entry2="120" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="6" entry2="121" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="97" entry2="122" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="59" entry2="123" type="PPrel">
+        <subtype name="activation" value="-->"/>
+    </relation>
+    <relation entry1="65" entry2="62" type="PCrel"/>
+    <relation entry1="55" entry2="16" type="PCrel"/>
+    <relation entry1="52" entry2="15" type="PCrel"/>
+    <relation entry1="60" entry2="103" type="PCrel"/>
+    <relation entry1="20" entry2="95" type="PCrel"/>
+    <relation entry1="49" entry2="64" type="PCrel"/>
+    <relation entry1="46" entry2="9" type="PCrel"/>
+    <relation entry1="42" entry2="61" type="PCrel"/>
+    <relation entry1="96" entry2="111" type="PCrel"/>
+    <relation entry1="33" entry2="8" type="PCrel"/>
+    <relation entry1="24" entry2="7" type="PCrel"/>
+    <relation entry1="66" entry2="13" type="PCrel"/>
+    <relation entry1="69" entry2="12" type="PCrel"/>
+    <relation entry1="5" entry2="1" type="PCrel"/>
+    <relation entry1="77" entry2="63" type="PCrel"/>
+    <relation entry1="80" entry2="14" type="PCrel"/>
+    <relation entry1="11" entry2="119" type="PCrel"/>
+    <relation entry1="94" entry2="10" type="PCrel"/>
+    <relation entry1="6" entry2="2" type="PCrel"/>
+</pathway>

@@ -1,0 +1,340 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Aug 25 2008 02:22:05 +0900 (JST) -->
+<pathway name="path:map03090" org="map" number="03090"
+         title="Type II secretion system"
+         image="http://www.genome.jp/kegg/pathway/map/map03090.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map03090">
+    <entry id="1" name="ko:K02669" type="ortholog">
+        <graphics name="K02669" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="536" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="2" name="ko:K02650" type="ortholog">
+        <graphics name="K02650" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="400" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="3" name="ec:3.4.23.43 ec:2.1.1.-" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.4.23.43+2.1.1.-">
+        <graphics name="3.4.23.43..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="445" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="4" name="ko:K02653" type="ortholog">
+        <graphics name="K02653" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="355" y="658" width="46" height="17"/>
+    </entry>
+    <entry id="5" name="ko:K02652" type="ortholog">
+        <graphics name="K02652" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="309" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="6" name="ko:K02666" type="ortholog">
+        <graphics name="K02666" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="264" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="7" name="ko:K02456" type="ortholog">
+        <graphics name="K02456" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="400" y="600" width="45" height="17"/>
+    </entry>
+    <entry id="8" name="ko:K02452" type="ortholog">
+        <graphics name="K02452" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="627" y="600" width="46" height="17"/>
+    </entry>
+    <entry id="9" name="ko:K02454" type="ortholog">
+        <graphics name="K02454" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="309" y="600" width="45" height="17"/>
+    </entry>
+    <entry id="10" name="ko:K02453" type="ortholog">
+        <graphics name="K02453" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="264" y="600" width="45" height="17"/>
+    </entry>
+    <entry id="11" name="path:map03090" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map03090">
+        <graphics name="TITLE:Type II secretion system" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="535" y="35" width="226" height="26"/>
+    </entry>
+    <entry id="12" name="ko:K02238" type="ortholog">
+        <graphics name="K02238" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="854" y="732" width="46" height="17"/>
+    </entry>
+    <entry id="13" name="ko:K02237" type="ortholog">
+        <graphics name="K02237" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="763" y="732" width="46" height="17"/>
+    </entry>
+    <entry id="14" name="ko:K02282" type="ortholog">
+        <graphics name="K02282" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="672" y="704" width="45" height="17"/>
+    </entry>
+    <entry id="15" name="ko:K02279" type="ortholog">
+        <graphics name="K02279" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="581" y="704" width="45" height="17"/>
+    </entry>
+    <entry id="16" name="ko:K02283" type="ortholog">
+        <graphics name="K02283" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="309" y="704" width="45" height="17"/>
+    </entry>
+    <entry id="17" name="ko:K02651" type="ortholog">
+        <graphics name="K02651" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="536" y="704" width="45" height="17"/>
+    </entry>
+    <entry id="18" name="ko:K02662" type="ortholog">
+        <graphics name="K02662" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="989" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="19" name="ko:K02655" type="ortholog">
+        <graphics name="K02655" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="989" y="675" width="46" height="17"/>
+    </entry>
+    <entry id="20" name="ko:K02674" type="ortholog">
+        <graphics name="K02674" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="898" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="21" name="ko:K02673" type="ortholog">
+        <graphics name="K02673" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="853" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="22" name="ko:K02672" type="ortholog">
+        <graphics name="K02672" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="808" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="23" name="ko:K02671" type="ortholog">
+        <graphics name="K02671" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="763" y="675" width="46" height="17"/>
+    </entry>
+    <entry id="24" name="ko:K02667" type="ortholog">
+        <graphics name="K02667" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="717" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="25" name="ec:2.7.13.3" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+2.7.13.3">
+        <graphics name="2.7.13.3" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="672" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="26" name="ko:K02676" type="ortholog">
+        <graphics name="K02676" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="627" y="675" width="46" height="17"/>
+    </entry>
+    <entry id="27" name="ko:K02670" type="ortholog">
+        <graphics name="K02670" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="581" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="28" name="ko:K02663" type="ortholog">
+        <graphics name="K02663" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="944" y="658" width="46" height="17"/>
+    </entry>
+    <entry id="29" name="ko:K02664" type="ortholog">
+        <graphics name="K02664" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="898" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="30" name="ko:K02665" type="ortholog">
+        <graphics name="K02665" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="853" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="31" name="ko:K02487" type="ortholog">
+        <graphics name="K02487" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="808" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="32" name="ko:K02660" type="ortholog">
+        <graphics name="K02660" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="717" y="658" width="46" height="17"/>
+    </entry>
+    <entry id="33" name="ko:K02659" type="ortholog">
+        <graphics name="K02659" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="672" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="34" name="ko:K02658" type="ortholog">
+        <graphics name="K02658" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="627" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="35" name="ko:K02657" type="ortholog">
+        <graphics name="K02657" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="581" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="36" name="ko:K02656" type="ortholog">
+        <graphics name="K02656" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="536" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="37" name="ko:K02463" type="ortholog">
+        <graphics name="K02463" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="944" y="600" width="45" height="17"/>
+    </entry>
+    <entry id="38" name="ko:K02462" type="ortholog">
+        <graphics name="K02462" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="899" y="600" width="46" height="17"/>
+    </entry>
+    <entry id="39" name="ko:K02461" type="ortholog">
+        <graphics name="K02461" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="853" y="600" width="45" height="17"/>
+    </entry>
+    <entry id="40" name="ko:K02460" type="ortholog">
+        <graphics name="K02460" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="808" y="600" width="45" height="17"/>
+    </entry>
+    <entry id="41" name="ko:K02459" type="ortholog">
+        <graphics name="K02459" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="763" y="600" width="46" height="17"/>
+    </entry>
+    <entry id="42" name="ko:K02458" type="ortholog">
+        <graphics name="K02458" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="717" y="600" width="45" height="17"/>
+    </entry>
+    <entry id="43" name="ko:K02457" type="ortholog">
+        <graphics name="K02457" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="672" y="600" width="45" height="17"/>
+    </entry>
+    <entry id="44" name="ko:K02450" type="ortholog">
+        <graphics name="K02450" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="536" y="600" width="45" height="17"/>
+    </entry>
+    <entry id="45" name="ko:K02455" type="ortholog">
+        <graphics name="K02455" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="355" y="600" width="46" height="17"/>
+    </entry>
+    <entry id="46" name="ko:K02280" type="ortholog">
+        <graphics name="K02280" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="264" y="704" width="45" height="17"/>
+    </entry>
+    <entry id="47" name="ko:K02242" type="ortholog">
+        <graphics name="K02242" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="990" y="732" width="46" height="17"/>
+    </entry>
+    <entry id="48" name="ec:3.5.4.12" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.5.4.12">
+        <graphics name="3.5.4.12" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="808" y="732" width="45" height="17"/>
+    </entry>
+    <entry id="49" name="ec:3.4.23.43" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.4.23.43">
+        <graphics name="3.4.23.43" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="445" y="704" width="45" height="17"/>
+    </entry>
+    <entry id="50" name="ec:3.4.23.43 ec:2.1.1.-" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.4.23.43+2.1.1.-">
+        <graphics name="3.4.23.43..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="445" y="600" width="45" height="17"/>
+    </entry>
+    <entry id="51" name="ko:K02451" type="ortholog">
+        <graphics name="K02451" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="581" y="600" width="45" height="17"/>
+    </entry>
+    <entry id="52" name="ko:K02682" type="ortholog">
+        <graphics name="K02682" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="400" y="629" width="45" height="17"/>
+    </entry>
+    <entry id="53" name="ko:K02504" type="ortholog">
+        <graphics name="K02504" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="309" y="629" width="45" height="17"/>
+    </entry>
+    <entry id="54" name="ko:K02507" type="ortholog">
+        <graphics name="K02507" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="264" y="629" width="45" height="17"/>
+    </entry>
+    <entry id="55" name="ko:K02281" type="ortholog">
+        <graphics name="K02281" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="627" y="704" width="46" height="17"/>
+    </entry>
+    <entry id="56" name="ko:K02250" type="ortholog">
+        <graphics name="K02250" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="718" y="749" width="46" height="17"/>
+    </entry>
+    <entry id="57" name="ko:K02248" type="ortholog">
+        <graphics name="K02248" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="626" y="749" width="45" height="17"/>
+    </entry>
+    <entry id="58" name="ko:K02246" type="ortholog">
+        <graphics name="K02246" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="536" y="749" width="45" height="17"/>
+    </entry>
+    <entry id="59" name="ko:K02245" type="ortholog">
+        <graphics name="K02245" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="400" y="732" width="45" height="17"/>
+    </entry>
+    <entry id="60" name="ko:K02240" type="ortholog">
+        <graphics name="K02240" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="899" y="732" width="45" height="17"/>
+    </entry>
+    <entry id="61" name="ko:K02239" type="ortholog">
+        <graphics name="K02239" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="717" y="732" width="45" height="17"/>
+    </entry>
+    <entry id="62" name="ec:3.4.23.43 ec:2.1.1.-" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.4.23.43+2.1.1.-">
+        <graphics name="3.4.23.43..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="445" y="732" width="45" height="17"/>
+    </entry>
+    <entry id="63" name="ko:K02244" type="ortholog">
+        <graphics name="K02244" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="355" y="732" width="46" height="17"/>
+    </entry>
+    <entry id="64" name="ko:K02243" type="ortholog">
+        <graphics name="K02243" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="309" y="732" width="45" height="17"/>
+    </entry>
+    <entry id="65" name="ko:K02254" type="ortholog">
+        <graphics name="K02254" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="808" y="749" width="45" height="17"/>
+    </entry>
+    <entry id="66" name="ko:K02249" type="ortholog">
+        <graphics name="K02249" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="672" y="749" width="45" height="17"/>
+    </entry>
+    <entry id="67" name="ko:K02247" type="ortholog">
+        <graphics name="K02247" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="582" y="749" width="46" height="17"/>
+    </entry>
+    <entry id="68" name="ko:K02241" type="ortholog">
+        <graphics name="K02241" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="944" y="732" width="45" height="17"/>
+    </entry>
+    <entry id="69" name="ko:K02251" type="ortholog">
+        <graphics name="K02251" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="672" y="732" width="45" height="17"/>
+    </entry>
+    <entry id="70" name="ko:K02253" type="ortholog">
+        <graphics name="K02253" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="627" y="732" width="46" height="17"/>
+    </entry>
+    <entry id="71" name="bsu:BG10380" type="other">
+        <graphics name="BG10380" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="581" y="732" width="45" height="17"/>
+    </entry>
+    <entry id="72" name="ko:K02252" type="ortholog">
+        <graphics name="K02252" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="763" y="749" width="45" height="17"/>
+    </entry>
+    <entry id="73" name="bsu:BG10381" type="other">
+        <graphics name="BG10381" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="536" y="732" width="45" height="17"/>
+    </entry>
+    <entry id="74" name="ec:3.4.23.43" type="enzyme"
+        link="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.4.23.43">
+        <graphics name="3.4.23.43" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="445" y="629" width="45" height="17"/>
+    </entry>
+    <entry id="75" name="ko:K02680" type="ortholog">
+        <graphics name="K02680" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="581" y="629" width="45" height="17"/>
+    </entry>
+    <entry id="76" name="ko:K02505" type="ortholog">
+        <graphics name="K02505" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="355" y="629" width="46" height="17"/>
+    </entry>
+    <entry id="77" name="ko:K02681" type="ortholog">
+        <graphics name="K02681" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="627" y="629" width="46" height="17"/>
+    </entry>
+    <entry id="78" name="ko:K02679" type="ortholog">
+        <graphics name="K02679" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="536" y="629" width="45" height="17"/>
+    </entry>
+    <entry id="79" name="ko:K02675" type="ortholog">
+        <graphics name="K02675" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="943" y="675" width="45" height="17"/>
+    </entry>
+    <entry id="80" name="ko:K02661" type="ortholog">
+        <graphics name="K02661" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="763" y="658" width="45" height="17"/>
+    </entry>
+    <entry id="81" name="ko:K02465" type="ortholog">
+        <graphics name="K02465" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="990" y="600" width="45" height="17"/>
+    </entry>
+</pathway>

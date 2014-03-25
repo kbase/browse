@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Aug 25 2008 02:21:47 +0900 (JST) -->
+<pathway name="path:map00907pb" org="map" number="00907pb"
+         image="http://www.genome.jp/kegg/pathway/map/map00907pb.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map00907pb">
+    <entry id="1" name="sp:CRTX_PANAN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTX_PANAN">
+        <graphics name="CRTX_PANAN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="532" y="552" width="46" height="17"/>
+    </entry>
+    <entry id="2" name="sp:CRTZ_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTZ_PARSN">
+        <graphics name="CRTZ_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="183" y="445" width="45" height="17"/>
+    </entry>
+    <entry id="3" name="sp:CRTZ_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTZ_PARSN">
+        <graphics name="CRTZ_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="299" y="445" width="46" height="17"/>
+    </entry>
+    <entry id="4" name="sp:CRTZ_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTZ_PARSN">
+        <graphics name="CRTZ_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="415" y="445" width="46" height="17"/>
+    </entry>
+    <entry id="5" name="sp:CRTZ_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTZ_PARSN">
+        <graphics name="CRTZ_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="182" y="301" width="45" height="17"/>
+    </entry>
+    <entry id="6" name="sp:CRTZ_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTZ_PARSN">
+        <graphics name="CRTZ_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="299" y="301" width="45" height="17"/>
+    </entry>
+    <entry id="7" name="sp:CRTZ_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTZ_PARSN">
+        <graphics name="CRTZ_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="415" y="301" width="45" height="17"/>
+    </entry>
+    <entry id="8" name="sp:CRTZ_PANAN sp:CRTZ_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTZ_PANAN+CRTZ_PARSN">
+        <graphics name="CRTZ_PANAN..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="532" y="445" width="45" height="17"/>
+    </entry>
+    <entry id="9" name="sp:CRTZ_PANAN sp:CRTZ_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTZ_PANAN+CRTZ_PARSN">
+        <graphics name="CRTZ_PANAN..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="532" y="301" width="45" height="17"/>
+    </entry>
+    <entry id="10" name="sp:CRTW_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTW_PARSN">
+        <graphics name="CRTW_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="471" y="512" width="45" height="17"/>
+    </entry>
+    <entry id="11" name="sp:CRTW_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTW_PARSN">
+        <graphics name="CRTW_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="512" width="45" height="17"/>
+    </entry>
+    <entry id="12" name="sp:CRTW_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTW_PARSN">
+        <graphics name="CRTW_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="265" width="45" height="17"/>
+    </entry>
+    <entry id="13" name="sp:CRTW_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTW_PARSN">
+        <graphics name="CRTW_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="331" width="45" height="17"/>
+    </entry>
+    <entry id="14" name="sp:CRTW_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTW_PARSN">
+        <graphics name="CRTW_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="387" width="45" height="17"/>
+    </entry>
+    <entry id="15" name="sp:CRTW_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTW_PARSN">
+        <graphics name="CRTW_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="471" y="387" width="45" height="17"/>
+    </entry>
+    <entry id="16" name="sp:CRTW_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTW_PARSN">
+        <graphics name="CRTW_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="471" y="331" width="45" height="17"/>
+    </entry>
+    <entry id="17" name="sp:CRTW_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTW_PARSN">
+        <graphics name="CRTW_PARSN" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="471" y="265" width="45" height="17"/>
+    </entry>
+    <entry id="18" name="sp:CRTI_PANAN sp:CRTI_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTI_PANAN+CRTI_PARSN">
+        <graphics name="CRTI_PANAN..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="591" y="190" width="46" height="17"/>
+    </entry>
+    <entry id="19" name="sp:CRTI_PANAN sp:CRTI_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTI_PANAN+CRTI_PARSN">
+        <graphics name="CRTI_PANAN..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="471" y="190" width="46" height="17"/>
+    </entry>
+    <entry id="20" name="sp:CRTI_PANAN sp:CRTI_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTI_PANAN+CRTI_PARSN">
+        <graphics name="CRTI_PANAN..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="355" y="190" width="46" height="17"/>
+    </entry>
+    <entry id="21" name="sp:CRTY_PANAN sp:CRTY_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTY_PANAN+CRTY_PARSN">
+        <graphics name="CRTY_PANAN..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="590" y="265" width="45" height="17"/>
+    </entry>
+    <entry id="22" name="sp:CRTY_PANAN sp:CRTY_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTY_PANAN+CRTY_PARSN">
+        <graphics name="CRTY_PANAN..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="661" y="220" width="45" height="17"/>
+    </entry>
+    <entry id="23" name="mxa:MXAN_0898" type="other">
+        <graphics name="MXAN_0898" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="662" y="301" width="46" height="17"/>
+    </entry>
+    <entry id="24" name="sp:CRTI_PANAN sp:CRTI_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTI_PANAN+CRTI_PARSN">
+        <graphics name="CRTI_PANAN..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="239" y="190" width="46" height="17"/>
+    </entry>
+    <entry id="25" name="sp:CRTB_PANAN sp:CRTB_PARSN" type="other"
+        link="http://www.genome.jp/dbget-bin/www_bget?sp+CRTB_PANAN+CRTB_PARSN">
+        <graphics name="CRTB_PANAN..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="122" y="190" width="45" height="17"/>
+    </entry>
+    <entry id="26" name="cpd:C15965" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15965">
+        <graphics name="C15965" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="299" y="330" width="8" height="8"/>
+    </entry>
+    <entry id="27" name="cpd:C15966" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15966">
+        <graphics name="C15966" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="415" y="386" width="8" height="8"/>
+    </entry>
+    <entry id="28" name="cpd:C15968" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15968">
+        <graphics name="C15968" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="415" y="509" width="8" height="8"/>
+    </entry>
+    <entry id="29" name="cpd:C08580" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08580">
+        <graphics name="C08580" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="183" y="509" width="8" height="8"/>
+    </entry>
+    <entry id="30" name="cpd:C15967" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15967">
+        <graphics name="C15967" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="184" y="386" width="8" height="8"/>
+    </entry>
+    <entry id="31" name="cpd:C08583" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08583">
+        <graphics name="C08583" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="183" y="265" width="8" height="8"/>
+    </entry>
+    <entry id="32" name="cpd:C08592" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08592">
+        <graphics name="C08592" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="415" y="266" width="8" height="8"/>
+    </entry>
+    <entry id="33" name="cpd:C15969" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15969">
+        <graphics name="C15969" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="532" y="605" width="8" height="8"/>
+    </entry>
+    <entry id="34" name="cpd:C05414" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05414">
+        <graphics name="C05414" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="532" y="511" width="8" height="8"/>
+    </entry>
+    <entry id="35" name="cpd:C02094" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C02094">
+        <graphics name="C02094" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="532" y="265" width="8" height="8"/>
+    </entry>
+    <entry id="36" name="cpd:C08591" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08591">
+        <graphics name="C08591" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="532" y="385" width="8" height="8"/>
+    </entry>
+    <entry id="37" name="cpd:C15860" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15860">
+        <graphics name="C15860" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="661" y="510" width="8" height="8"/>
+    </entry>
+    <entry id="38" name="cpd:C15859" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15859">
+        <graphics name="C15859" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="661" y="384" width="8" height="8"/>
+    </entry>
+    <entry id="39" name="cpd:C05435" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05435">
+        <graphics name="C05435" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="661" y="264" width="8" height="8"/>
+    </entry>
+    <entry id="40" name="cpd:C05432" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05432">
+        <graphics name="C05432" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="661" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="41" name="cpd:C05431" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05431">
+        <graphics name="C05431" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="532" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="42" name="cpd:C05430" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05430">
+        <graphics name="C05430" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="416" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="43" name="cpd:C05414" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05414">
+        <graphics name="C05414" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="300" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="44" name="cpd:C05413" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05413">
+        <graphics name="C05413" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="184" y="189" width="8" height="8"/>
+    </entry>
+    <entry id="45" name="cpd:C00353" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00353">
+        <graphics name="C00353" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="67" y="188" width="8" height="8"/>
+    </entry>
+    <entry id="46" name="path:map00100" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map00100.html">
+        <graphics name="Biosynthesis of steroids" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="107" y="121" width="134" height="25"/>
+    </entry>
+    <entry id="47" name="path:map00907pb" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map00907pb">
+        <graphics name="TITLE:" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="225" y="54" width="370" height="28"/>
+    </entry>
+</pathway>

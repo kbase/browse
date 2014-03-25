@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.6.1_.dtd">
+<!-- Creation date: Aug 25 2008 02:21:46 +0900 (JST) -->
+<pathway name="path:map00907ca" org="map" number="00907ca"
+         image="http://www.genome.jp/kegg/pathway/map/map00907ca.gif"
+         link="http://www.genome.jp/dbget-bin/show_pathway?map00907ca">
+    <entry id="1" name="cpd:C00353" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C00353">
+        <graphics name="C00353" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="70" y="186" width="8" height="8"/>
+    </entry>
+    <entry id="2" name="ana:alr4009" type="other">
+        <graphics name="alr4009" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="456" y="498" width="46" height="17"/>
+    </entry>
+    <entry id="3" name="ana:alr3189" type="other">
+        <graphics name="alr3189" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="340" y="498" width="46" height="17"/>
+    </entry>
+    <entry id="4" name="ana:all3744 syn:slr0088" type="other">
+        <graphics name="all3744..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="340" y="279" width="46" height="17"/>
+    </entry>
+    <entry id="5" name="ana:all3744 syn:slr0088" type="other">
+        <graphics name="all3744..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="456" y="279" width="46" height="17"/>
+    </entry>
+    <entry id="6" name="ana:alr2064 syn:sll0033" type="other">
+        <graphics name="alr2064..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="576" y="196" width="46" height="17"/>
+    </entry>
+    <entry id="7" name="ana:alr2064 syn:sll0033" type="other">
+        <graphics name="alr2064..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="456" y="196" width="46" height="17"/>
+    </entry>
+    <entry id="8" name="ana:all2382 syn:slr0940" type="other">
+        <graphics name="crtQ..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="576" y="175" width="46" height="17"/>
+    </entry>
+    <entry id="9" name="ana:all2382 syn:slr0940" type="other">
+        <graphics name="crtQ..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="456" y="175" width="46" height="17"/>
+    </entry>
+    <entry id="10" name="ana:alr1832 syn:slr1254" type="other">
+        <graphics name="pds..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="340" y="187" width="46" height="17"/>
+    </entry>
+    <entry id="11" name="ana:alr1832 syn:slr1254" type="other">
+        <graphics name="pds..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="224" y="187" width="46" height="17"/>
+    </entry>
+    <entry id="12" name="ana:alr1833 syn:slr1255" type="other">
+        <graphics name="pys..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="108" y="187" width="46" height="17"/>
+    </entry>
+    <entry id="13" name="cpd:C15942" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15942">
+        <graphics name="C15942" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="284" y="498" width="8" height="8"/>
+    </entry>
+    <entry id="14" name="cpd:C15941" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15941">
+        <graphics name="C15941" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="400" y="498" width="8" height="8"/>
+    </entry>
+    <entry id="15" name="cpd:C15940" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15940">
+        <graphics name="C15940" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="516" y="498" width="8" height="8"/>
+    </entry>
+    <entry id="16" name="cpd:C15937" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15937">
+        <graphics name="C15937" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="400" y="423" width="8" height="8"/>
+    </entry>
+    <entry id="17" name="cpd:C15935" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15935">
+        <graphics name="C15935" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="516" y="423" width="8" height="8"/>
+    </entry>
+    <entry id="18" name="cpd:C15965" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C15965">
+        <graphics name="C15965" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="285" y="341" width="8" height="8"/>
+    </entry>
+    <entry id="19" name="cpd:C08583" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08583">
+        <graphics name="C08583" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="285" y="278" width="8" height="8"/>
+    </entry>
+    <entry id="20" name="cpd:C08592" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08592">
+        <graphics name="C08592" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="401" y="278" width="8" height="8"/>
+    </entry>
+    <entry id="21" name="cpd:C06098" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C06098">
+        <graphics name="C06098" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="401" y="370" width="8" height="8"/>
+    </entry>
+    <entry id="22" name="cpd:C08591" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C08591">
+        <graphics name="C08591" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="517" y="370" width="8" height="8"/>
+    </entry>
+    <entry id="23" name="cpd:C02094" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C02094">
+        <graphics name="C02094" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="517" y="278" width="8" height="8"/>
+    </entry>
+    <entry id="24" name="cpd:C05435" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05435">
+        <graphics name="C05435" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="646" y="279" width="8" height="8"/>
+    </entry>
+    <entry id="25" name="cpd:C05432" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05432">
+        <graphics name="C05432" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="646" y="186" width="8" height="8"/>
+    </entry>
+    <entry id="26" name="cpd:C05431" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05431">
+        <graphics name="C05431" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="517" y="186" width="8" height="8"/>
+    </entry>
+    <entry id="27" name="cpd:C05430" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05430">
+        <graphics name="C05430" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="401" y="186" width="8" height="8"/>
+    </entry>
+    <entry id="28" name="cpd:C05414" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05414">
+        <graphics name="C05414" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="285" y="186" width="8" height="8"/>
+    </entry>
+    <entry id="29" name="cpd:C05413 cpd:C05421" type="compound"
+        link="http://www.genome.jp/dbget-bin/www_bget?compound+C05413+C05421">
+        <graphics name="C05413..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="170" y="186" width="8" height="8"/>
+    </entry>
+    <entry id="30" name="path:map00907ca" type="map"
+        link="http://www.genome.jp/dbget-bin/get_linkdb?pathway+map00907ca">
+        <graphics name="TITLE:" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="297" y="54" width="516" height="28"/>
+    </entry>
+    <entry id="31" name="path:map00100" type="map"
+        link="http://www.genome.jp/kegg/pathway/map/map00100.html">
+        <graphics name="Biosynthesis of steroids" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="109" y="118" width="134" height="25"/>
+    </entry>
+    <entry id="32" name="syn:sll1468" type="other">
+        <graphics name="crtR, bhy" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="456" y="423" width="46" height="17"/>
+    </entry>
+    <entry id="33" name="syn:sll1468" type="other">
+        <graphics name="crtR, bhy" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="456" y="370" width="46" height="17"/>
+    </entry>
+    <entry id="34" name="syn:sll1468" type="other">
+        <graphics name="crtR, bhy" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="401" y="314" width="46" height="17"/>
+    </entry>
+    <entry id="35" name="syn:sll1468" type="other">
+        <graphics name="crtR, bhy" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="517" y="314" width="46" height="17"/>
+    </entry>
+</pathway>
