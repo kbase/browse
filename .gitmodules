@@ -1,0 +1,3 @@
+[submodule "ui-common"]
+	path = ui-common
+	url = kbase@git.kbase.us:ui-common
